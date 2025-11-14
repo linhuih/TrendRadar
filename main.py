@@ -1147,7 +1147,7 @@ def count_word_frequency(
             source_url = title_data.get("url", "")
             source_mobile_url = title_data.get("mobileUrl", "")
 
-            # 找到匹配的词组
+            # 找到匹配的词组（只匹配第一个，一条新闻只出现在一个组合中）
             title_lower = title.lower()
             for group in word_groups:
                 required_words = group["required"]
@@ -1255,7 +1255,7 @@ def count_word_frequency(
                     processed_titles[source_id] = {}
                 processed_titles[source_id][title] = True
 
-                break
+                break  # 一条新闻只出现在第一个匹配的组合中
 
     # 最后统一打印汇总信息
     if mode == "incremental":
@@ -1323,11 +1323,14 @@ def count_word_frequency(
             ),
         )
 
+        # 限制每个关键词组合只显示排序后的前10条新闻
+        top_titles = sorted_titles[:8]
+
         stats.append(
             {
                 "word": group_key,
-                "count": data["count"],
-                "titles": sorted_titles,
+                "count": data["count"],  # 保留原始总数用于统计
+                "titles": top_titles,  # 只返回前10条
                 "percentage": (
                     round(data["count"] / total_titles * 100, 2)
                     if total_titles > 0
