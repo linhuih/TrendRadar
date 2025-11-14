@@ -219,7 +219,6 @@ def load_config():
 print("正在加载配置...")
 CONFIG = load_config()
 print(f"TrendRadar v{VERSION} 配置加载完成")
-# 统计平台数量
 platform_groups = CONFIG.get("PLATFORM_GROUPS", [])
 if platform_groups:
     all_platforms = set()
@@ -1507,13 +1506,15 @@ def prepare_report_data(
     mode: str = "daily",
 ) -> Dict:
     """准备报告数据"""
+    # HTML 不展示新增新闻区域，设置为空列表
     processed_new_titles = []
 
     # 在增量模式下隐藏新增新闻区域
     hide_new_section = mode == "incremental"
 
+    # HTML 不展示新增新闻区域（已禁用）
     # 只有在非隐藏模式下才处理新增新闻部分
-    if not hide_new_section:
+    if False and not hide_new_section:
         filtered_new_titles = {}
         if new_titles and id_to_name:
             word_groups, filter_words = load_frequency_words()
