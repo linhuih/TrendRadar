@@ -74,6 +74,8 @@ def load_config():
         "RANK_THRESHOLD": config_data["report"]["rank_threshold"],
         "USE_PROXY": config_data["crawler"]["use_proxy"],
         "DEFAULT_PROXY": config_data["crawler"]["default_proxy"],
+        "RANK_LIMIT": int(os.environ.get("RANK_LIMIT", "").strip() or "0")
+        or config_data["crawler"].get("rank_limit", 0),
         "ENABLE_CRAWLER": os.environ.get("ENABLE_CRAWLER", "").strip().lower()
         in ("true", "1")
         if os.environ.get("ENABLE_CRAWLER", "").strip()
@@ -128,7 +130,9 @@ def load_config():
             "FREQUENCY_WEIGHT": config_data["weight"]["frequency_weight"],
             "HOTNESS_WEIGHT": config_data["weight"]["hotness_weight"],
         },
-        "PLATFORMS": config_data["platforms"],
+        "PLATFORM_GROUPS": config_data.get("platform_groups", []),
+        # 兼容旧配置：如果存在 platforms，转换为 platform_groups 格式
+        "PLATFORMS": config_data.get("platforms", []),
     }
 
     # 通知渠道配置（环境变量优先）
@@ -215,13 +219,157 @@ def load_config():
 print("正在加载配置...")
 CONFIG = load_config()
 print(f"TrendRadar v{VERSION} 配置加载完成")
-print(f"监控平台数量: {len(CONFIG['PLATFORMS'])}")
+# 统计平台数量
+platform_groups = CONFIG.get("PLATFORM_GROUPS", [])
+if platform_groups:
+    all_platforms = set()
+    for group in platform_groups:
+        platforms = group.get("platforms", [])
+        for platform in platforms:
+            if isinstance(platform, str):
+                all_platforms.add(platform)
+            else:
+                platform_id = platform.get("id", "")
+                if platform_id:
+                    all_platforms.add(platform_id)
+    print(f"监控平台数量: {len(all_platforms)} (分组数: {len(platform_groups)})")
+else:
+    print(f"监控平台数量: {len(CONFIG.get('PLATFORMS', []))}")
 
 
 # === 工具函数 ===
 def get_beijing_time():
     """获取北京时间"""
     return datetime.now(pytz.timezone("Asia/Shanghai"))
+
+
+def get_utc_time():
+    """获取UTC时间"""
+    return datetime.now(pytz.UTC)
+
+
+def is_time_in_ranges(current_time: datetime, time_ranges: List[Dict]) -> bool:
+    """
+    检查当前时间是否在指定的时间范围内
+    
+    Args:
+        current_time: 当前时间（北京时间）
+        time_ranges: 时间范围列表，格式: [{"start": "HH:MM", "end": "HH:MM"}, ...]
+                    空列表表示所有时间都匹配
+                    时间范围使用北京时间（东8区）
+    
+    Returns:
+        True 如果当前时间在任何一个时间范围内，或 time_ranges 为空列表
+    """
+    if not time_ranges:
+        return True  # 空列表表示所有时间都匹配
+    
+    current_hour_min = current_time.strftime("%H:%M")
+    
+    for time_range in time_ranges:
+        start_time = time_range.get("start", "")
+        end_time = time_range.get("end", "")
+        
+        if start_time <= current_hour_min <= end_time:
+            return True
+    
+    return False
+
+
+def get_platforms_by_time() -> Tuple[List[str], Dict[str, str]]:
+    """
+    根据当前北京时间获取应该抓取的平台列表和名称映射
+    
+    Returns:
+        (平台ID列表, 平台ID到名称的映射)
+    """
+    platform_groups = CONFIG.get("PLATFORM_GROUPS", [])
+    
+    # 兼容旧配置：如果没有配置 platform_groups，使用 platforms
+    if not platform_groups:
+        platforms = CONFIG.get("PLATFORMS", [])
+        if platforms:
+            platform_ids = [p["id"] for p in platforms]
+            id_to_name = {p["id"]: p.get("name", p["id"]) for p in platforms}
+            return platform_ids, id_to_name
+        else:
+            return [], {}
+    
+    current_beijing = get_beijing_time()
+    current_hour_min = current_beijing.strftime("%H:%M")
+    
+    print(f"当前北京时间: {current_hour_min}")
+    
+    # 收集所有匹配时间段的平台（包含ID和名称）
+    matched_platforms = {}  # {platform_id: platform_name}
+    
+    for group in platform_groups:
+        group_name = group.get("name", "未知组")
+        time_ranges = group.get("time_ranges", [])
+        platforms = group.get("platforms", [])
+        
+        if is_time_in_ranges(current_beijing, time_ranges):
+            for platform in platforms:
+                # 支持两种格式：字符串（只有ID）或对象（包含id和name）
+                if isinstance(platform, str):
+                    platform_id = platform
+                    platform_name = platform_id
+                else:
+                    platform_id = platform.get("id", "")
+                    platform_name = platform.get("name", platform_id)
+                
+                if platform_id:
+                    matched_platforms[platform_id] = platform_name
+            
+            platform_ids = [p if isinstance(p, str) else p.get("id", "") for p in platforms]
+            print(f"✓ 匹配分组: {group_name} (平台: {platform_ids})")
+        else:
+            print(f"✗ 跳过分组: {group_name} (不在时间范围内)")
+    
+    result_ids = list(matched_platforms.keys())
+    
+    if not result_ids:
+        # 如果没有匹配的平台，只返回 default 组的平台（降级策略）
+        # 注意：不应该返回所有平台，因为 tech 组有特定的时间限制
+        print("⚠️ 警告：当前时间没有匹配的平台分组，尝试使用 default 组")
+        for group in platform_groups:
+            group_name = group.get("name", "未知组")
+            time_ranges = group.get("time_ranges", [])
+            # 只使用 time_ranges 为空的组（即 default 组）
+            if not time_ranges:
+                platforms = group.get("platforms", [])
+                for platform in platforms:
+                    if isinstance(platform, str):
+                        platform_id = platform
+                        platform_name = platform_id
+                    else:
+                        platform_id = platform.get("id", "")
+                        platform_name = platform.get("name", platform_id)
+                    if platform_id:
+                        matched_platforms[platform_id] = platform_name
+                print(f"✓ 降级策略：使用 {group_name} 组的平台")
+                break
+        
+        result_ids = list(matched_platforms.keys())
+        
+        # 如果还是没有平台，才返回所有平台（最后的降级策略）
+        if not result_ids:
+            print("⚠️ 警告：default 组也没有平台，使用所有平台")
+            for group in platform_groups:
+                platforms = group.get("platforms", [])
+                for platform in platforms:
+                    if isinstance(platform, str):
+                        platform_id = platform
+                        platform_name = platform_id
+                    else:
+                        platform_id = platform.get("id", "")
+                        platform_name = platform.get("name", platform_id)
+                    if platform_id:
+                        matched_platforms[platform_id] = platform_name
+            result_ids = list(matched_platforms.keys())
+    
+    print(f"最终抓取平台: {result_ids}")
+    return result_ids, matched_platforms
 
 
 def format_date_folder():
@@ -521,7 +669,14 @@ class DataFetcher:
                 try:
                     data = json.loads(response)
                     results[id_value] = {}
-                    for index, item in enumerate(data.get("items", []), 1):
+                    rank_limit = CONFIG.get("RANK_LIMIT", 0)
+                    
+                    # 直接限制返回数据，只取前N条
+                    items = data.get("items", [])
+                    if rank_limit > 0:
+                        items = items[:rank_limit]
+                    
+                    for index, item in enumerate(items, 1):
                         title = item["title"]
                         url = item.get("url", "")
                         mobile_url = item.get("mobileUrl", "")
@@ -1324,7 +1479,7 @@ def count_word_frequency(
         )
 
         # 限制每个关键词组合只显示排序后的前10条新闻
-        top_titles = sorted_titles[:8]
+        top_titles = sorted_titles[:30]
 
         stats.append(
             {
@@ -2177,6 +2332,7 @@ def render_html_content(
 
             # 处理每个词组下的新闻标题，给每条新闻标上序号
             for j, title_data in enumerate(stat["titles"], 1):
+                # 在新闻标题中标记 NEW（但不单独列出新增新闻区域）
                 is_new = title_data.get("is_new", False)
                 new_class = "new" if is_new else ""
 
@@ -2249,67 +2405,9 @@ def render_html_content(
             html += """
                 </div>"""
 
-    # 处理新增新闻区域
-    if report_data["new_titles"]:
-        html += f"""
-                <div class="new-section">
-                    <div class="new-section-title">本次新增热点 (共 {report_data['total_new_count']} 条)</div>"""
-
-        for source_data in report_data["new_titles"]:
-            escaped_source = html_escape(source_data["source_name"])
-            titles_count = len(source_data["titles"])
-
-            html += f"""
-                    <div class="new-source-group">
-                        <div class="new-source-title">{escaped_source} · {titles_count}条</div>"""
-
-            # 为新增新闻也添加序号
-            for idx, title_data in enumerate(source_data["titles"], 1):
-                ranks = title_data.get("ranks", [])
-
-                # 处理新增新闻的排名显示
-                rank_class = ""
-                if ranks:
-                    min_rank = min(ranks)
-                    if min_rank <= 3:
-                        rank_class = "top"
-                    elif min_rank <= title_data.get("rank_threshold", 10):
-                        rank_class = "high"
-
-                    if len(ranks) == 1:
-                        rank_text = str(ranks[0])
-                    else:
-                        rank_text = f"{min(ranks)}-{max(ranks)}"
-                else:
-                    rank_text = "?"
-
-                html += f"""
-                        <div class="new-item">
-                            <div class="new-item-number">{idx}</div>
-                            <div class="new-item-rank {rank_class}">{rank_text}</div>
-                            <div class="new-item-content">
-                                <div class="new-item-title">"""
-
-                # 处理新增新闻的链接
-                escaped_title = html_escape(title_data["title"])
-                link_url = title_data.get("mobile_url") or title_data.get("url", "")
-
-                if link_url:
-                    escaped_url = html_escape(link_url)
-                    html += f'<a href="{escaped_url}" target="_blank" class="news-link">{escaped_title}</a>'
-                else:
-                    html += escaped_title
-
-                html += """
-                                </div>
-                            </div>
-                        </div>"""
-
-            html += """
-                    </div>"""
-
-        html += """
-                </div>"""
+    # HTML 不展示新增新闻区域（已禁用）
+    # if report_data["new_titles"]:
+    #     ...
 
     html += """
             </div>
@@ -4145,10 +4243,23 @@ class NewsAnalyzer:
     ) -> Optional[Tuple[Dict, Dict, Dict, Dict, List, List]]:
         """统一的数据加载和预处理，使用当前监控平台列表过滤历史数据"""
         try:
-            # 获取当前配置的监控平台ID列表
+            # 获取当前配置的监控平台ID列表（从所有 platform_groups 中提取）
             current_platform_ids = []
-            for platform in CONFIG["PLATFORMS"]:
-                current_platform_ids.append(platform["id"])
+            platform_groups = CONFIG.get("PLATFORM_GROUPS", [])
+            if platform_groups:
+                for group in platform_groups:
+                    platforms = group.get("platforms", [])
+                    for platform in platforms:
+                        if isinstance(platform, str):
+                            current_platform_ids.append(platform)
+                        else:
+                            platform_id = platform.get("id", "")
+                            if platform_id:
+                                current_platform_ids.append(platform_id)
+            else:
+                # 兼容旧配置
+                for platform in CONFIG.get("PLATFORMS", []):
+                    current_platform_ids.append(platform["id"])
 
             print(f"当前监控平台: {current_platform_ids}")
 
@@ -4384,15 +4495,16 @@ class NewsAnalyzer:
 
     def _crawl_data(self) -> Tuple[Dict, Dict, List]:
         """执行数据爬取"""
+        # 根据当前时间获取应该抓取的平台列表和名称映射
+        target_platform_ids, platform_id_to_name = get_platforms_by_time()
+        
         ids = []
-        for platform in CONFIG["PLATFORMS"]:
-            if "name" in platform:
-                ids.append((platform["id"], platform["name"]))
-            else:
-                ids.append(platform["id"])
+        for platform_id in target_platform_ids:
+            platform_name = platform_id_to_name.get(platform_id, platform_id)
+            ids.append((platform_id, platform_name))
 
         print(
-            f"配置的监控平台: {[p.get('name', p['id']) for p in CONFIG['PLATFORMS']]}"
+            f"本次抓取的平台: {[p[1] if isinstance(p, tuple) and len(p) >= 2 else (p[0] if isinstance(p, tuple) else p) for p in ids]}"
         )
         print(f"开始爬取数据，请求间隔 {self.request_interval} 毫秒")
         ensure_directory_exists("output")
@@ -4410,8 +4522,22 @@ class NewsAnalyzer:
         self, mode_strategy: Dict, results: Dict, id_to_name: Dict, failed_ids: List
     ) -> Optional[str]:
         """执行模式特定逻辑"""
-        # 获取当前监控平台ID列表
-        current_platform_ids = [platform["id"] for platform in CONFIG["PLATFORMS"]]
+        # 获取当前监控平台ID列表（从所有 platform_groups 中提取）
+        current_platform_ids = []
+        platform_groups = CONFIG.get("PLATFORM_GROUPS", [])
+        if platform_groups:
+            for group in platform_groups:
+                platforms = group.get("platforms", [])
+                for platform in platforms:
+                    if isinstance(platform, str):
+                        current_platform_ids.append(platform)
+                    else:
+                        platform_id = platform.get("id", "")
+                        if platform_id:
+                            current_platform_ids.append(platform_id)
+        else:
+            # 兼容旧配置
+            current_platform_ids = [platform["id"] for platform in CONFIG.get("PLATFORMS", [])]
 
         new_titles = detect_latest_new_titles(current_platform_ids)
         time_info = Path(save_titles_to_file(results, id_to_name, failed_ids)).stem

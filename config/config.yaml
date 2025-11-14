@@ -7,6 +7,7 @@ crawler:
   enable_crawler: true # 是否启用爬取新闻功能，如果 false，则直接停止程序
   use_proxy: false # 是否启用代理，false 时为关闭
   default_proxy: "http://127.0.0.1:10086"
+  rank_limit: 10 # 只获取排名前N的新闻，0表示不限制（获取全部）
 
 # 🔸 daily（当日汇总模式）
 #   • 推送时机：按时推送(默认每小时推送一次)
@@ -75,37 +76,32 @@ weight:
   frequency_weight: 0.3 # 频次权重
   hotness_weight: 0.1 # 热度权重
 
-# name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
-platforms:
-  - id: "toutiao"
-    name: "今日头条"
-  - id: "baidu"
-    name: "百度热搜"
-  - id: "wallstreetcn-hot"
-    name: "华尔街见闻"
-  - id: "bilibili-hot-search"
-    name: "bilibili 热搜"
-  - id: "cls-hot"
-    name: "财联社热门"
-  - id: "ifeng"
-    name: "凤凰网"
-  - id: "weibo"
-    name: "微博"
-  - id: "douyin"
-    name: "抖音"
-  - id: "zhihu"
-    name: "知乎"
-  - id: "zaobao"
-    name: "联合早报"
-  - id: "36kr"
-    name: "36氪"
-  - id: "xueqiu"
-    name: "雪球"
-  - id: "gelonghui"
-    name: "格隆汇"
-  - id: "producthunt"
-    name: "Product Hunt"
-  - id: "github"
-    name: "Github"
-  - id: "jin10"
-    name: "金十数据"
+# 平台分组配置：不同时间段抓取不同的平台
+# time_ranges 为空列表表示所有时间都抓取，使用北京时间（东8区）
+# platforms 可以是字符串列表（平台ID）或对象列表（包含 id 和 name）
+platform_groups:
+  - name: "default"
+    time_ranges: []  # 空列表表示所有时间都抓取
+    platforms:
+      - id: "toutiao"
+        name: "今日头条"
+      - id: "wallstreetcn-hot"
+        name: "华尔街见闻"
+      - id: "cls-hot"
+        name: "财联社热门"
+      - id: "zhihu"
+        name: "知乎"
+      - id: "zaobao"
+        name: "联合早报"
+  
+  - name: "tech"
+    time_ranges:
+      - start: "12:00"  # 北京时间 20:00-21:00
+        end: "13:00"
+    platforms:
+      - id: "producthunt"
+        name: "Product Hunt"
+      - id: "github"
+        name: "Github"
+      - id: "juejin"
+        name: "掘金"
