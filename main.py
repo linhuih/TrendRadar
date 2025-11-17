@@ -279,6 +279,10 @@ def get_platforms_by_time() -> Tuple[List[str], Dict[str, str]]:
     """
     根据当前北京时间获取应该抓取的平台列表和名称映射
     
+    逻辑：
+    1. 如果当前时间在某个分组的时间范围内，只抓取该分组的平台
+    2. 如果没有匹配到任何时间分组，使用 default 组（time_ranges 为空）作为兜底
+    
     Returns:
         (平台ID列表, 平台ID到名称的映射)
     """
@@ -299,73 +303,56 @@ def get_platforms_by_time() -> Tuple[List[str], Dict[str, str]]:
     
     print(f"当前北京时间: {current_hour_min}")
     
-    # 收集所有匹配时间段的平台（包含ID和名称）
-    matched_platforms = {}  # {platform_id: platform_name}
+    # 先查找 default 组（time_ranges 为空）作为兜底
+    default_group = None
+    matched_group = None
     
     for group in platform_groups:
-        group_name = group.get("name", "未知组")
+        group_name = group.get("name", "default")
         time_ranges = group.get("time_ranges", [])
-        platforms = group.get("platforms", [])
         
-        if is_time_in_ranges(current_beijing, time_ranges):
-            for platform in platforms:
-                # 支持两种格式：字符串（只有ID）或对象（包含id和name）
-                if isinstance(platform, str):
-                    platform_id = platform
-                    platform_name = platform_id
-                else:
-                    platform_id = platform.get("id", "")
-                    platform_name = platform.get("name", platform_id)
-                
-                if platform_id:
-                    matched_platforms[platform_id] = platform_name
-            
-            platform_ids = [p if isinstance(p, str) else p.get("id", "") for p in platforms]
-            print(f"✓ 匹配分组: {group_name} (平台: {platform_ids})")
+        # 记录 default 组（time_ranges 为空）
+        if not time_ranges:
+            if default_group is None:
+                default_group = group
+                print(f"✓ 找到兜底组: {group_name}")
+        
+        # 检查是否匹配当前时间
+        if time_ranges and is_time_in_ranges(current_beijing, time_ranges):
+            matched_group = group
+            print(f"✓ 匹配时间分组: {group_name} (时间范围匹配)")
+            break  # 找到匹配的分组后立即退出
+    
+    # 确定使用哪个分组
+    target_group = matched_group if matched_group else default_group
+    
+    if not target_group:
+        print("⚠️ 警告：没有找到任何分组（包括 default 组），返回空列表")
+        return [], {}
+    
+    # 从目标分组中提取平台
+    platforms = target_group.get("platforms", [])
+    matched_platforms = {}  # {platform_id: platform_name}
+    
+    for platform in platforms:
+        # 支持两种格式：字符串（只有ID）或对象（包含id和name）
+        if isinstance(platform, str):
+            platform_id = platform
+            platform_name = platform_id
         else:
-            print(f"✗ 跳过分组: {group_name} (不在时间范围内)")
+            platform_id = platform.get("id", "")
+            platform_name = platform.get("name", platform_id)
+        
+        if platform_id:
+            matched_platforms[platform_id] = platform_name
     
     result_ids = list(matched_platforms.keys())
+    group_name = target_group.get("name", "default")
     
-    if not result_ids:
-        # 如果没有匹配的平台，只返回 default 组的平台（降级策略）
-        # 注意：不应该返回所有平台，因为 tech 组有特定的时间限制
-        print("⚠️ 警告：当前时间没有匹配的平台分组，尝试使用 default 组")
-        for group in platform_groups:
-            group_name = group.get("name", "未知组")
-            time_ranges = group.get("time_ranges", [])
-            # 只使用 time_ranges 为空的组（即 default 组）
-            if not time_ranges:
-                platforms = group.get("platforms", [])
-                for platform in platforms:
-                    if isinstance(platform, str):
-                        platform_id = platform
-                        platform_name = platform_id
-                    else:
-                        platform_id = platform.get("id", "")
-                        platform_name = platform.get("name", platform_id)
-                    if platform_id:
-                        matched_platforms[platform_id] = platform_name
-                print(f"✓ 降级策略：使用 {group_name} 组的平台")
-                break
-        
-        result_ids = list(matched_platforms.keys())
-        
-        # 如果还是没有平台，才返回所有平台（最后的降级策略）
-        if not result_ids:
-            print("⚠️ 警告：default 组也没有平台，使用所有平台")
-            for group in platform_groups:
-                platforms = group.get("platforms", [])
-                for platform in platforms:
-                    if isinstance(platform, str):
-                        platform_id = platform
-                        platform_name = platform_id
-                    else:
-                        platform_id = platform.get("id", "")
-                        platform_name = platform.get("name", platform_id)
-                    if platform_id:
-                        matched_platforms[platform_id] = platform_name
-            result_ids = list(matched_platforms.keys())
+    if matched_group:
+        print(f"✓ 使用匹配的时间分组: {group_name} (平台: {result_ids})")
+    else:
+        print(f"✓ 使用兜底组: {group_name} (平台: {result_ids})")
     
     print(f"最终抓取平台: {result_ids}")
     return result_ids, matched_platforms
@@ -4242,27 +4229,12 @@ class NewsAnalyzer:
     def _load_analysis_data(
         self,
     ) -> Optional[Tuple[Dict, Dict, Dict, Dict, List, List]]:
-        """统一的数据加载和预处理，使用当前监控平台列表过滤历史数据"""
+        """统一的数据加载和预处理，使用当前时间匹配的平台列表过滤历史数据"""
         try:
-            # 获取当前配置的监控平台ID列表（从所有 platform_groups 中提取）
-            current_platform_ids = []
-            platform_groups = CONFIG.get("PLATFORM_GROUPS", [])
-            if platform_groups:
-                for group in platform_groups:
-                    platforms = group.get("platforms", [])
-                    for platform in platforms:
-                        if isinstance(platform, str):
-                            current_platform_ids.append(platform)
-                        else:
-                            platform_id = platform.get("id", "")
-                            if platform_id:
-                                current_platform_ids.append(platform_id)
-            else:
-                # 兼容旧配置
-                for platform in CONFIG.get("PLATFORMS", []):
-                    current_platform_ids.append(platform["id"])
+            # 根据当前时间获取应该抓取的平台列表（而不是所有平台）
+            current_platform_ids, _ = get_platforms_by_time()
 
-            print(f"当前监控平台: {current_platform_ids}")
+            print(f"当前监控平台（按时间匹配）: {current_platform_ids}")
 
             all_results, id_to_name, title_info = read_all_today_titles(
                 current_platform_ids
@@ -4523,22 +4495,8 @@ class NewsAnalyzer:
         self, mode_strategy: Dict, results: Dict, id_to_name: Dict, failed_ids: List
     ) -> Optional[str]:
         """执行模式特定逻辑"""
-        # 获取当前监控平台ID列表（从所有 platform_groups 中提取）
-        current_platform_ids = []
-        platform_groups = CONFIG.get("PLATFORM_GROUPS", [])
-        if platform_groups:
-            for group in platform_groups:
-                platforms = group.get("platforms", [])
-                for platform in platforms:
-                    if isinstance(platform, str):
-                        current_platform_ids.append(platform)
-                    else:
-                        platform_id = platform.get("id", "")
-                        if platform_id:
-                            current_platform_ids.append(platform_id)
-        else:
-            # 兼容旧配置
-            current_platform_ids = [platform["id"] for platform in CONFIG.get("PLATFORMS", [])]
+        # 根据当前时间获取应该抓取的平台列表（而不是所有平台）
+        current_platform_ids, _ = get_platforms_by_time()
 
         new_titles = detect_latest_new_titles(current_platform_ids)
         time_info = Path(save_titles_to_file(results, id_to_name, failed_ids)).stem
