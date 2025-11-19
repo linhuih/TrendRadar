@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 国安部披露近年来破获一批日本间谍情报机关针对中国的渗透窃密间谍案件，哪些信息值得关注？有哪些警示？ [URL:https://www.zhihu.com/question/1974421884121653526]
+2. 网友网购 50 条观赏鱼到货只有一袋水，商家称加热包把鱼煮熟分解了，这是真的吗？分解会毫无残留吗？ [URL:https://www.zhihu.com/question/1974117795760400095]
+3. 我国大学学龄人口 2032 年达峰，这将带来哪些影响？高校教育会如何改革？ [URL:https://www.zhihu.com/question/1974076666121838856]
+4. 出差前领导说「这次出差费用要 3 万左右，但不能预支，需要垫付回来报销，是你来还是我来？」我该怎么办？ [URL:https://www.zhihu.com/question/664461577]
+5. 为什么越来越多的人开始接受「工资是受罪的钱」，而不是为理想和成就工作了？ [URL:https://www.zhihu.com/question/1968243257768116776]
+6. 江苏科技大学通报郭某学术造假事件，已解聘并报案，此事还有哪些疑点？校方在引进审核中是否存在失职责任？ [URL:https://www.zhihu.com/question/1974396544791834987]
+7. 杨瀚森 9 分 5 篮板 3 助攻，三项数据创生涯新高，太阳 127:110 开拓者，如何评价这场比赛？ [URL:https://www.zhihu.com/question/1974451568213509181]
+8. 西贝给一线员工每人涨薪 500 元，并设「委屈奖」补贴遭网暴人员，你觉得这剂「药方」能管多久？ [URL:https://www.zhihu.com/question/1974161508192757337]
+9. 如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？ [URL:https://www.zhihu.com/question/1972270226642044065]
+10. 如果用 80℃的热风持续吹一个铁块，那么铁块表面的温度有没有可能超过 80℃？ [URL:https://www.zhihu.com/question/666880218]
+
+v2ex | V2EX
+1. 家里小朋友想耍游戏，突发奇想，一起用 ai 搞了个 [URL:https://www.v2ex.com/t/1173782]
+2. 要换成与单位合作的联通宽带套餐吗？ [URL:https://www.v2ex.com/t/1173796]
+3. 构建了一个 MarkText 编辑体验的写作软件，希望获得早期反馈 [URL:https://www.v2ex.com/t/1173793]
+4. 分享一个全部由 Claude code 开发的一款小程序 [URL:https://www.v2ex.com/t/1173791]
+5. 用 gemini3 搞了个 Neubrutalism 风格的 Astro 博客主题 [URL:https://www.v2ex.com/t/1173790]
+6. 在京东锁了一些内存和固态，有京东的开发或者运营来看看你们的调价机制吗 [URL:https://www.v2ex.com/t/1173786]
+7. 《潦草头像馆》持续更新： 2025-11-19 新增“几何堆叠”随机头像 [URL:https://www.v2ex.com/t/1173783]
+8. 做了个 3D LUT 生成工具，摄影爱好者看过来 [URL:https://www.v2ex.com/t/1173780]
+9. 一句话总结 Cloudflare 故障 [URL:https://www.v2ex.com/t/1173776]
+10. Win 转 Mac？一招找回“关闭即退出”的爽快 [URL:https://www.v2ex.com/t/1173773]
+
+ithome | IT之家
+1. 奇瑞风云 T9L 官宣 2025 广州车展首发亮相，大五座 SUV [URL:https://www.ithome.com/0/898/661.htm]
+2. 内存供应紧张，消息称英伟达、AMD 中低端游戏显卡面临停产风险 [URL:https://www.ithome.com/0/898/660.htm]
+3. 【视频】首款鸿蒙二合一平板，华为MatePad Edge 首发体验 [URL:https://www.ithome.com/0/898/659.htm]
+4. 全球首款裸眼 3D Win 掌机：Abxylute 3D One 发布，搭载 11 寸屏幕、酷睿 Ultra 7 258V 处理器 [URL:https://www.ithome.com/0/898/653.htm]
+5. 红龙首款三模电感轴键盘 HENRY 68 发布：支持 8kHz 回报率与 0.01mm 精度 [URL:https://www.ithome.com/0/898/652.htm]
+6. 中国光伏行业协会江华：上半年行业举步维艰，进入三季度开始回暖 [URL:https://www.ithome.com/0/898/651.htm]
+7. 育碧《纪元 117：罗马和平》创系列最佳首发成绩，力压《使命召唤：黑色行动 7》登 Steam 周榜第二 [URL:https://www.ithome.com/0/898/650.htm]
+8. AIDA64 最新测试版已可检测英特尔酷睿 Ultra 200K Plus 处理器型号 [URL:https://www.ithome.com/0/898/649.htm]
+9. 消息称某厂天玑 9500 芯片小迭代新机正测试原生磁吸无线充电，预计为 vivo X300s [URL:https://www.ithome.com/0/898/648.htm]
+10. 屏幕大就是好：荣耀手表 X5 官宣 11 月 24 日发布，1.97 英寸 AMOLED 屏 + 1.8mm 窄边设计 [URL:https://www.ithome.com/0/898/646.htm]
+
