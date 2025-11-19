@@ -105,8 +105,8 @@ platform_groups:
         name: "掘金"
   - name: "chore"
     time_ranges:
-      - start: "17:00"  # 北京时间 20:00-21:00
-        end: "18:00"
+      - start: "18:00"  # 北京时间 20:00-21:00
+        end: "19:00"
     platforms:
       - id: "zhihu"
         name: "知乎"
