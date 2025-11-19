@@ -1,0 +1,36 @@
+producthunt | Product Hunt
+1. Cursor 2.0 [URL:https://www.producthunt.com/products/cursor/launches/cursor-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+newsnow+%28ID%3A+239216%29]
+2. Talo [URL:https://www.producthunt.com/products/talo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+newsnow+%28ID%3A+239216%29]
+3. BlogBowl [URL:https://www.producthunt.com/products/blogbowl-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+newsnow+%28ID%3A+239216%29]
+4. TrustMRR [URL:https://www.producthunt.com/products/trustmrr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+newsnow+%28ID%3A+239216%29]
+5. Oskar by Skarbe [URL:https://www.producthunt.com/products/skarbe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+newsnow+%28ID%3A+239216%29]
+6. Director [URL:https://www.producthunt.com/products/browserbase/launches/director?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+newsnow+%28ID%3A+239216%29]
+7. Floqer [URL:https://www.producthunt.com/products/floqer-2/launches/floqer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+newsnow+%28ID%3A+239216%29]
+8. Welltory [URL:https://www.producthunt.com/products/welltory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+newsnow+%28ID%3A+239216%29]
+9. ChatGPT Atlas [URL:https://www.producthunt.com/products/openai/launches/chatgpt-atlas?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+newsnow+%28ID%3A+239216%29]
+10. v0 for iOS [URL:https://www.producthunt.com/products/v0/launches/v0-for-ios?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+newsnow+%28ID%3A+239216%29]
+
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 今天 Cloudflare 全球事故，连 GPT 和你的网站都一起“掉线”了 [URL:https://juejin.cn/post/7573680361991077928]
+2. 🔥 大模型时代最讽刺的职业出现了：“大模型善后工程师” [URL:https://juejin.cn/post/7572997791451070502]
+3. Snapchat 开源全新跨平台框架 Valdi ，一起来搞懂它究竟有什么特别之处 [URL:https://juejin.cn/post/7572697146288177202]
+4. AI Agent : CrewAI 简单使用 + 尝试一下股票分析 [URL:https://juejin.cn/post/7572714389943615540]
+5. Cursor 一年深度开发实践：前端开发的效率革命🚀 [URL:https://juejin.cn/post/7573193563053522985]
+6. 大部分人都错了！这才是chrome插件多脚本通信的正确姿势 [URL:https://juejin.cn/post/7573521516324732955]
+7. Unibest：新一代uni-app工程化最佳实践指南 [URL:https://juejin.cn/post/7572480736361889798]
+8. 17. Vue3 业务组件库按需加载的实现原理 [URL:https://juejin.cn/post/7572480736362119174]
+9. 别再死磕框架了！你的技术路线图该更新了 [URL:https://juejin.cn/post/7573694361474629659]
+10. 让 Flutter 资源管理更智能 [URL:https://juejin.cn/post/7572539461479530539]
+
