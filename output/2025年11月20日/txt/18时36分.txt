@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 边牧「徐豆豆」因参加比赛时频繁跑错路线、拒过障碍走红，为啥一只小狗的「快乐乱跑」这么吸引人？ [URL:https://www.zhihu.com/question/1974429786752439557]
+2. 余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？ [URL:https://www.zhihu.com/question/1973698606189008394]
+3. 员工在同事群八卦领导私生活被开除，法院判公司违法解除并赔 10 万，依据是什么？职场吐槽要注意哪些分寸？ [URL:https://www.zhihu.com/question/1974082897754420651]
+4. 冲锋衣为什么会被网友们封为「北京市服」？是单纯的气候原因吗？ [URL:https://www.zhihu.com/question/1974141271233754268]
+5. 钢渣这么便宜，为什么不用钢渣盖房子？ [URL:https://www.zhihu.com/question/1974147353033335683]
+6. 无人机搭载金属箭头狩猎，对野猪、家畜无差别射杀，这种「无人机牙签」威力有多大？可能存在哪些风险？ [URL:https://www.zhihu.com/question/1974134235926389102]
+7. 如何看待杭州官宣取消灵隐寺合计 75 元门票？有哪些考量？ [URL:https://www.zhihu.com/question/1974429828024382723]
+8. 为什么这代孩子心中会压抑着那么多的愤怒、怨恨？ [URL:https://www.zhihu.com/question/1973289911340773706]
+9. 员工拒绝公司「一人双岗」要求后被开除，法院判决公司赔偿 28 万，如何从法律角度解读？ [URL:https://www.zhihu.com/question/1971957879188751808]
+10. 你怎么看待明星金晨、王安宇、大鹏、费翔等人配音《疯狂动物城 2》？ [URL:https://www.zhihu.com/question/1972288443682918504]
+
+v2ex | V2EX
+1. 原来 v 站几个月不登录，并不影响签到连续天数统计 [URL:https://www.v2ex.com/t/1174026]
+2. 每次看到有人对线的时候贴出 AI 的回复当论据我就觉得好笑😂 [URL:https://www.v2ex.com/t/1174027]
+3. Claude 真的好用吗？ [URL:https://www.v2ex.com/t/1174025]
+4. 我们做的表格 Agent 在 SpreadsheetBench 拿了 68.86%，刚冲上榜一，分享下进展 [URL:https://www.v2ex.com/t/1174024]
+5. 之前在 V2 看到有人求新生娃命名。突然刷到一篇论文真的有人认真研究用大模型干这个事。 [URL:https://www.v2ex.com/t/1174017]
+6. 球 Codex Cli 正确用法 [URL:https://www.v2ex.com/t/1174011]
+7. # [教程] Strapi v5 部署 Railway 避坑指南：告别 AggregateError [URL:https://www.v2ex.com/t/1174010]
+8. 朋友发我的，这是我在知乎上看到的最特么无法描述的账号。。 [URL:https://www.v2ex.com/t/1174009]
+9. 困扰一个多月的问题处理了，又学了个奇淫巧计 [URL:https://www.v2ex.com/t/1174007]
+10. 好久不写代码了，试用了下 codex，发现太强了！ [URL:https://www.v2ex.com/t/1173993]
+
+ithome | IT之家
+1. 正式版将至：realme UI 7.0 不限量内测明早 10 点开启，适配真我 GT7 / Neo7 等部分机型 [URL:https://www.ithome.com/0/898/963.htm]
+2. 安谋科技发布“AI Arm CHINA”战略发展方向，将在香港成立国际研发中心 [URL:https://www.ithome.com/0/898/962.htm]
+3. 小米汽车 App 获 2.0 版更新：上线“服务”页面，优化泊车辅助功能 [URL:https://www.ithome.com/0/898/961.htm]
+4. 鸿蒙智行年度压轴新品享界 S9 轿车首销战绩出炉：2 小时大定破 2000 台 [URL:https://www.ithome.com/0/898/960.htm]
+5. 比亚迪纯电 K-Car RACCO 有望登陆欧洲市场，有“价格屠夫”潜力 [URL:https://www.ithome.com/0/898/959.htm]
+6. 英特尔酷睿 Ultra 200H 处理器支持分配 120GB 显存，可运行 120B MoE 模型 [URL:https://www.ithome.com/0/898/957.htm]
+7. 因被认定“国家文化遗产”，法国法院叫停拍卖 17 世纪帕斯卡计算器 [URL:https://www.ithome.com/0/898/956.htm]
+8. 网易云音乐第三季度净收入 20 亿元同比减少 1.8%，测试黑胶家庭会员 [URL:https://www.ithome.com/0/898/955.htm]
+9. 因“不正当竞争”，西班牙法院判 Meta 向当地媒体赔偿 4.79 亿欧元 [URL:https://www.ithome.com/0/898/948.htm]
+10. 自己拍的照片被指侵权，摄影师戴建峰起诉视觉中国案历时两年终迎一审判决 [URL:https://www.ithome.com/0/898/946.htm]
+
