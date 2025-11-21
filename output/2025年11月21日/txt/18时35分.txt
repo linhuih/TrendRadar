@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？ [URL:https://www.zhihu.com/question/1975169592130286012]
+2. 小伙出差抽中大奖，被随行同事告知公司要求「充公」，拒绝后被迫离职，如何看待此事？出差中奖归属如何界定？ [URL:https://www.zhihu.com/question/1975164916840227173]
+3. 我被公司辞退了，赔偿了 N+1，现在领导打电话想让我回去，但是得退换 N+1，大家觉得我能回去吗？ [URL:https://www.zhihu.com/question/621445283]
+4. 以前影视剧明星给动画片配音没事，为什么现在《疯狂动物城 2》配音争议这么大？ [URL:https://www.zhihu.com/question/1968666564682310580]
+5. 如何看待中国科学院大学航空宇航学院改称「星际航行学院」？ [URL:https://www.zhihu.com/question/1974848212851509061]
+6. 如何理解「感统失调里有一项是穿不了高领衫」？为什么有的人穿不了高领？ [URL:https://www.zhihu.com/question/1966526578629505718]
+7. 大量香港人到广东买社保和医保，称月交 898 元，退休 4 年就能回本，怎么看待这种现象？ [URL:https://www.zhihu.com/question/1974397525294352135]
+8. 全运会男子 4x100 米接力决赛，苏炳添谢幕战，广东第四湖北夺冠，如何看待本场比赛？ [URL:https://www.zhihu.com/question/1974889646950408730]
+9. 松鼠吃蜥蜴视频令网友震惊，直呼「松鼠塌房了」，这正常吗？松鼠到底能吃多「杂」？ [URL:https://www.zhihu.com/question/1974847772634150744]
+10. 古代的谋士那么聪明，为何甘心要给自己找个主公辅佐，自己创业不好吗？ [URL:https://www.zhihu.com/question/1972775766417761706]
+
+v2ex | V2EX
+1. 聊得很好却挂了，非技术面到底在考察什么 [URL:https://www.v2ex.com/t/1174285]
+2. 第一次发现美团外卖优惠券要自己主动点，淘宝不用 [URL:https://www.v2ex.com/t/1174281]
+3. FileCR 插件慎用 [URL:https://www.v2ex.com/t/1174278]
+4. lazyrdm 终端下的 redis 管理工具 [URL:https://www.v2ex.com/t/1174276]
+5. 写了个优化提示词的 Chrome 扩展 [URL:https://www.v2ex.com/t/1174272]
+6. ProxifierPE 4.14 汉化 [URL:https://www.v2ex.com/t/1174268]
+7. web 菜鸟级选手， 1 天时间做了个 ai 学习工具网站 [URL:https://www.v2ex.com/t/1174264]
+8. 独立开发者做宣传营销才是最大的难关！能开发出来算个 dir [URL:https://www.v2ex.com/t/1174255]
+9. 如何设计一个支持高强度对线的社区 [URL:https://www.v2ex.com/t/1174239]
+10. 我开源了一个用于调用 sora2 的 ai 画布 [URL:https://www.v2ex.com/t/1174221]
+
+solidot | Solidot
+1. 美国 CDC 网页宣称疫苗与自闭症相关 [URL:https://www.solidot.org/story?sid=82859]
+2. 微软公开 Zork 系列游戏源代码 [URL:https://www.solidot.org/story?sid=82858]
+3. 惠普和戴尔禁用了部分电脑的 HEVC 硬件解码功能 [URL:https://www.solidot.org/story?sid=82857]
+4. 冷冻妻子的男子结交新伴侣引发争论 [URL:https://www.solidot.org/story?sid=82856]
+5. 清华去年获得 AI 专利数超过 MIT、斯坦福、普林斯顿和哈佛的总和 [URL:https://www.solidot.org/story?sid=82855]
+6. 大脑处理不同语言的基本语音的方式相同 [URL:https://www.solidot.org/story?sid=82854]
+7. 美国可能会在两个月内失去麻疹消除国地位 [URL:https://www.solidot.org/story?sid=82853]
+8. 逾 60 个警局装备了波士顿动力的机器狗 [URL:https://www.solidot.org/story?sid=82852]
+9. 中国卡车正迅速从柴油转向电动 [URL:https://www.solidot.org/story?sid=82851]
+10. 中国人才推动美国 AI 研究 [URL:https://www.solidot.org/story?sid=82850]
+
