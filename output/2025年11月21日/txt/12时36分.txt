@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 今天 Cloudflare 全球事故，连 GPT 和你的网站都一起“掉线”了 [URL:https://juejin.cn/post/7573680361991077928]
+2. Cursor 一年深度开发实践：前端开发的效率革命🚀 [URL:https://juejin.cn/post/7573193563053522985]
+3. Gemini3 强势来袭，这次前端真的死了。。。 [URL:https://juejin.cn/post/7573958996668760091]
+4. Snapchat 开源全新跨平台框架 Valdi ，一起来搞懂它究竟有什么特别之处 [URL:https://juejin.cn/post/7572697146288177202]
+5. AI Agent : CrewAI 简单使用 + 尝试一下股票分析 [URL:https://juejin.cn/post/7572714389943615540]
+6. 别再死磕框架了！你的技术路线图该更新了 [URL:https://juejin.cn/post/7573694361474629659]
+7. 大部分人都错了！这才是chrome插件多脚本通信的正确姿势 [URL:https://juejin.cn/post/7573521516324732955]
+8. 别再吹性能优化了：你的应用卡顿，纯粹是因为产品设计烂🤷‍♂️ [URL:https://juejin.cn/post/7573950036897038376]
+9. 17. Vue3 业务组件库按需加载的实现原理 [URL:https://juejin.cn/post/7572480736362119174]
+10. Gemini 3.0 发布，Antigravity 掀桌，程序员何去何从？ [URL:https://juejin.cn/post/7574217823105548339]
+
+ithome | IT之家
+1. TrendForce：DDR5 内存 2Gbx8 颗粒现货价格自 9 月初来大涨 307% [URL:https://www.ithome.com/0/899/137.htm]
+2. 129 元米家智能车载加湿器发售：适用于小米 SU7 及 YU7 系列，支持活水循环加湿技术 [URL:https://www.ithome.com/0/899/136.htm]
+3. 奇瑞“智能硬派大五座”SUV iCAR V27 中国首秀，明年 Q1 上市 [URL:https://www.ithome.com/0/899/135.htm]
+4. 理想发布全新功能 VLA 充电，实现无缝驶入、自动驶离充电站等 [URL:https://www.ithome.com/0/899/133.htm]
+5. 美的回应要求售后停止小米格力业务：无强制排他性行为 [URL:https://www.ithome.com/0/899/132.htm]
+6. 英伟达 GeForce NOW 完成 RTX 5080 升级，云游戏带来 360FPS 极速电竞体验 [URL:https://www.ithome.com/0/899/129.htm]
+7. Perplexity AI 率先直接与美国政府部门签订合同，仅收取象征性资费 [URL:https://www.ithome.com/0/899/128.htm]
+8. 华为畅享 70X 尊享版手机发售：搭载麒麟 8000 芯片、6100mAh 电池 + 40W 有线充电，支持一键北斗卫星图片消息及鸿蒙智慧通信 [URL:https://www.ithome.com/0/899/126.htm]
+9. 燃油车全球首搭：一汽奥迪 A5L 华为乾崑智驾版上市，28.68 万元 [URL:https://www.ithome.com/0/899/125.htm]
+10. 蔚来乐道汽车总裁沈斐：纯电 + 换电根本不需要做增程，电池变大就是超级增程了吗？ [URL:https://www.ithome.com/0/899/123.htm]
+
+hackernews | Hacker News
+1. Nano Banana Pro [URL:https://news.ycombinator.com/item?id=45993296]
+2. Android and iPhone users can now share files, starting with the Pixel 10 [URL:https://news.ycombinator.com/item?id=45994854]
+3. FEX-emu – Run x86 applications on ARM64 Linux devices [URL:https://news.ycombinator.com/item?id=45905850]
+4. Why top firms fire good workers [URL:https://news.ycombinator.com/item?id=45999872]
+5. Exploring the Fragmentation of Wayland, an xdotool adventure [URL:https://news.ycombinator.com/item?id=45942109]
+6. New Glenn Update [URL:https://news.ycombinator.com/item?id=45997914]
+7. New OS aims to provide (some) compatibility with macOS [URL:https://news.ycombinator.com/item?id=45997212]
+8. Data-at-Rest Encryption in DuckDB [URL:https://news.ycombinator.com/item?id=45996585]
+9. NTSB Preliminary Report – UPS Boeing MD-11F Crash [pdf] [URL:https://news.ycombinator.com/item?id=45995834]
+10. Over-regulation is doubling the cost [URL:https://news.ycombinator.com/item?id=45999038]
+
+==== 以下ID请求失败 ====
+36kr
