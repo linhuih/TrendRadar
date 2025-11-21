@@ -91,18 +91,23 @@ platform_groups:
         name: "财联社热门"
       - id: "zaobao"
         name: "联合早报"
-  
+      - id: "tencent-hot"
+        name: "腾讯新闻"  
   - name: "tech"
     time_ranges:
       - start: "12:00"  # 北京时间 20:00-21:00
         end: "13:00"
     platforms:
-      - id: "producthunt"
-        name: "Product Hunt"
       - id: "github"
         name: "Github"
       - id: "juejin"
         name: "掘金"
+      - id: "ithome"
+        name: "IT之家"
+      - id: "36kr"
+        name: "36氪"
+      - id: "hackernews"
+        name: "Hacker News"  
   - name: "chore"
     time_ranges:
       - start: "18:00"  # 北京时间 20:00-21:00
@@ -112,5 +117,6 @@ platform_groups:
         name: "知乎"
       - id: "v2ex"
         name: "V2EX"
-      - id: "ithome"
-        name: "IT之家"
+      - id: "solidot"
+        name: "Solidot"
+
