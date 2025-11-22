@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 大部分人都错了！这才是chrome插件多脚本通信的正确姿势 [URL:https://juejin.cn/post/7573521516324732955]
+2. 别再吹性能优化了：你的应用卡顿，纯粹是因为产品设计烂🤷‍♂️ [URL:https://juejin.cn/post/7573950036897038376]
+3. 17. Vue3 业务组件库按需加载的实现原理 [URL:https://juejin.cn/post/7572480736362119174]
+4. 全面实测 Gemini 3.0，前端这回真死了吗？ [URL:https://juejin.cn/post/7574671792996925475]
+5. 【AI省流快讯】Cloudflare 炸了 / Gemini 3 来了 / Antigravity 独家实测 (附：无法登录解法) [URL:https://juejin.cn/post/7574269207362224137]
+6. 工作中最常用的6种API网关 [URL:https://juejin.cn/post/7573594825317253160]
+7. 一个超级真实的Three.js树🌲生成器插件 [URL:https://juejin.cn/post/7573588675638099983]
+8. 逆天！Gemini 3 Pro直接封神 （用三句话完成的小球物理世界） [URL:https://juejin.cn/post/7573958996668858395]
+9. Prisma 7 重磅发布：告别 Rust，拥抱 TypeScript，性能提升 3 倍 [URL:https://juejin.cn/post/7574343024324149289]
+10. 前端已死，ai当立：gemini3写的火柴人射击小游戏 [URL:https://juejin.cn/post/7574382925761953830]
+
+ithome | IT之家
+1. 工信部启动卫星物联网业务商用试验，为期两年 [URL:https://www.ithome.com/0/899/372.htm]
+2. 凯迪拉克 CT5 飓风哑光灰新车色亮相，同步推出红色性能选装包 [URL:https://www.ithome.com/0/899/371.htm]
+3. 发电供暖还可供汽，我国核能综合利用迈入新阶段 [URL:https://www.ithome.com/0/899/370.htm]
+4. 硬核科普：聊聊相机的机械快门、电子快门、电子前帘快门！它们有何不同，如何正确使用？ [URL:https://www.ithome.com/0/899/368.htm]
+5. 世界最大跨度四主缆悬索桥，湖北燕矶长江大桥今日合龙 [URL:https://www.ithome.com/0/899/367.htm]
+6. AI 需求太猛，SK 海力士 DRAM 产能计划到 2026 年暴增超 8 倍 [URL:https://www.ithome.com/0/899/366.htm]
+7. 打破国外长期垄断，中科飞测首台晶圆平坦度测量设备出货 HBM 客户端 [URL:https://www.ithome.com/0/899/365.htm]
+8. 华尔街警告：AI 行业债务风险升级，系统性危机恐一触即发 [URL:https://www.ithome.com/0/899/364.htm]
+9. 全球最大“华龙一号”核电基地 2 号机组并网发电 [URL:https://www.ithome.com/0/899/362.htm]
+10. 华为乾崑 App 发布：支持远控功能与数字钥匙，满足基本用车需求 [URL:https://www.ithome.com/0/899/361.htm]
+
+hackernews | Hacker News
+1. Personal blogs are back, should niche blogs be next? [URL:https://news.ycombinator.com/item?id=46009894]
+2. Arduino Terms of Service and Privacy Policy update: setting the record straight [URL:https://news.ycombinator.com/item?id=46009056]
+3. Samsung's 60% DRAM price hike signals a new phase of global memory tightening [URL:https://news.ycombinator.com/item?id=45934619]
+4. Helping Valve to power up Steam devices [URL:https://news.ycombinator.com/item?id=46006616]
+5. Apple's Problem with Bodies [URL:https://news.ycombinator.com/item?id=46010230]
+6. Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker [URL:https://news.ycombinator.com/item?id=46006016]
+7. Childhood Friends, Not Moms, Shape Attachment Styles Most [URL:https://news.ycombinator.com/item?id=45927520]
+8. Moss Survives 9 Months in Space Vacuum [URL:https://news.ycombinator.com/item?id=46011978]
+9. LAPD helicopter tracker with real-time operating costs [URL:https://news.ycombinator.com/item?id=46009591]
+10. How I learned Vulkan and wrote a small game engine with it (2024) [URL:https://news.ycombinator.com/item?id=46010329]
+
+==== 以下ID请求失败 ====
+36kr
