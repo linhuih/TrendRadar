@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 多位老人疑向海洋放生大米，官方称不属污染物，如何看待这种放生行为？ [URL:https://www.zhihu.com/question/1975226880111157439]
+2. 月薪过万的高收入者，会点拼好饭吗？ [URL:https://www.zhihu.com/question/1970557506980943692]
+3. 江科大回应骗子如何当上首席科学家，称他可能用了别人成果，学校也是受害者，高校人才引入制度存在哪些漏洞？ [URL:https://www.zhihu.com/question/1975514894389438155]
+4. 理想汽车被曝大反思，承认产品节奏变慢，后续产品有望不再「套娃」，理想当前面临哪些困境？会带来哪些改变？ [URL:https://www.zhihu.com/question/1974778440168273303]
+5. 如何评价毕赣执导，易烊千玺、舒淇主演的电影《狂野时代》? [URL:https://www.zhihu.com/question/1974510431721763327]
+6. 爸妈总爱买那种一大包很便宜的精制盐，说盐都一样，我该怎么说服他们换个好点的？ [URL:https://www.zhihu.com/question/1974822975036491602]
+7. 如何看待《哪吒之魔童闹海》未能入选 2026 年奥斯卡 35 部符合资格的动画长片名单? [URL:https://www.zhihu.com/question/1975535121810620629]
+8. 为什么沙特因油而富，山西却不能因煤而富，差别在哪里？ [URL:https://www.zhihu.com/question/1973430132803915866]
+9. 如何评价《英雄联盟》新英雄亚恒的强度和手感？ [URL:https://www.zhihu.com/question/1974748815832683898]
+10. 全运会闭幕式举行，马龙、苏炳添、潘展乐等同框献唱，还有哪些亮点值得关注？哪场精彩比赛让你印象深刻？ [URL:https://www.zhihu.com/question/1975240798745355649]
+
+v2ex | V2EX
+1. 摸鱼一分钟，快乐一小时 [URL:https://www.v2ex.com/t/1174401]
+2. 发现自己的需求，并把想法落地了。（开源快捷提示词填充器） [URL:https://www.v2ex.com/t/1174396]
+3. 我们做了个自建私有 CDN ，不知道对大家是否有用 [URL:https://www.v2ex.com/t/1174384]
+4. 独立开发者使用 cf r2 做图床视频床怎么样？ [URL:https://www.v2ex.com/t/1174379]
+5. google antigravity 无法唤起本地应用的可能原因 [URL:https://www.v2ex.com/t/1174371]
+6. [技术求助]油管推流直播和本地翻墙直播什么区别？ [URL:https://www.v2ex.com/t/1174366]
+7. AI 随手记 - 使用技巧总结 [URL:https://www.v2ex.com/t/1174359]
+8. orbstack 今日遇到的一个 port 的“bug” [URL:https://www.v2ex.com/t/1174355]
+9. 为推广 Rust 和 PostgreSQL,我决定开源单日收益最高过千的流量主小程序 [URL:https://www.v2ex.com/t/1174351]
+10. notebooklm 新出的 ppt 生成功能真的很炸裂啊 [URL:https://www.v2ex.com/t/1174342]
+
+solidot | Solidot
+1. 美国 CDC 网页宣称疫苗与自闭症相关 [URL:https://www.solidot.org/story?sid=82859]
+2. 微软公开 Zork 系列游戏源代码 [URL:https://www.solidot.org/story?sid=82858]
+3. 惠普和戴尔禁用了部分电脑的 HEVC 硬件解码功能 [URL:https://www.solidot.org/story?sid=82857]
+4. 冷冻妻子的男子结交新伴侣引发争论 [URL:https://www.solidot.org/story?sid=82856]
+5. 清华去年获得 AI 专利数超过 MIT、斯坦福、普林斯顿和哈佛的总和 [URL:https://www.solidot.org/story?sid=82855]
+6. 大脑处理不同语言的基本语音的方式相同 [URL:https://www.solidot.org/story?sid=82854]
+7. 美国可能会在两个月内失去麻疹消除国地位 [URL:https://www.solidot.org/story?sid=82853]
+8. 逾 60 个警局装备了波士顿动力的机器狗 [URL:https://www.solidot.org/story?sid=82852]
+9. 中国卡车正迅速从柴油转向电动 [URL:https://www.solidot.org/story?sid=82851]
+10. 中国人才推动美国 AI 研究 [URL:https://www.solidot.org/story?sid=82850]
+
