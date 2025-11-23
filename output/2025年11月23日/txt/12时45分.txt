@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 别再吹性能优化了：你的应用卡顿，纯粹是因为产品设计烂🤷‍♂️ [URL:https://juejin.cn/post/7573950036897038376]
+2. 17. Vue3 业务组件库按需加载的实现原理 [URL:https://juejin.cn/post/7572480736362119174]
+3. 全面实测 Gemini 3.0，前端这回真死了吗？ [URL:https://juejin.cn/post/7574671792996925475]
+4. 逆天！Gemini 3 Pro直接封神 （用三句话完成的小球物理世界） [URL:https://juejin.cn/post/7573958996668858395]
+5. 前端已死，ai当立：gemini3写的火柴人射击小游戏 [URL:https://juejin.cn/post/7574382925761953830]
+6. 我TM被AI骗了!！损失惨痛~ [URL:https://juejin.cn/post/7574648745894281257]
+7. 聊一聊 Gemini3、 AntiGravity 和 Nano Banana Pro 的体验和问题 [URL:https://juejin.cn/post/7574745301725167622]
+8. 【开源】耗时数月、我开发了一款功能全面【30W行代码】的AI图床 [URL:https://juejin.cn/post/7574271557938905139]
+9. 把原型链画成地铁图：坐 3 站路就能看懂 JS 的“继承”怎么跑 [URL:https://juejin.cn/post/7575004291833430067]
+10. 转转UI自动化走查方案探索 [URL:https://juejin.cn/post/7574739133945675818]
+
+ithome | IT之家
+1. 呈强劲增长态势：今年我国低空经济市场规模预计将达 1.5 万亿元 [URL:https://www.ithome.com/0/899/528.htm]
+2. 上海交大发布全球首个量子科学计算平台，9 维方程计算效率提高 1 万亿倍以上 [URL:https://www.ithome.com/0/899/527.htm]
+3. 巧克力换电批量运营：宁德时代 × 上汽商用车达成深度战略合作 [URL:https://www.ithome.com/0/899/526.htm]
+4. 中国铁塔：累计建设基站项目超 700 万，在 320 个城市部署了 8 万多个换电柜 [URL:https://www.ithome.com/0/899/525.htm]
+5. 真我 GT7 Pro 系列陆续推送 realme UI 7.0 正式版，其他机型处提速收尾阶段 [URL:https://www.ithome.com/0/899/524.htm]
+6. 何小鹏现身广州车展小米、乐道展台：中国智能汽车需要更多优秀的伙伴一起努力 [URL:https://www.ithome.com/0/899/523.htm]
+7. GSMA 称 6G 网络所需中频段频谱是当前 3 倍，呼吁各国立即行动 [URL:https://www.ithome.com/0/899/522.htm]
+8. 华为 WATCH Ultimate 2 智能手表通过星闪认证，11 月 25 日发布 [URL:https://www.ithome.com/0/899/521.htm]
+9. 英特尔推出触摸书写优化套件，延迟降低至 50 毫秒左右 [URL:https://www.ithome.com/0/899/519.htm]
+10. 与广汽联合打造启境汽车，华为靳玉志爆料双方团队曾出现激烈争执 [URL:https://www.ithome.com/0/899/518.htm]
+
+hackernews | Hacker News
+1. GCC SC approves inclusion of Algol 68 Front End [URL:https://news.ycombinator.com/item?id=46020151]
+2. A monopoly ISP refuses to fix upstream infrastructure [URL:https://news.ycombinator.com/item?id=46019685]
+3. Unusual circuits in the Intel 386's standard cell logic [URL:https://news.ycombinator.com/item?id=46020543]
+4. WorldGen – Text to Immersive 3D Worlds [URL:https://news.ycombinator.com/item?id=46018380]
+5. NTSB report: Decryption of images from the Titan submersible camera [pdf] [URL:https://news.ycombinator.com/item?id=46019636]
+6. We Induced Smells With Ultrasound [URL:https://news.ycombinator.com/item?id=46008332]
+7. The privacy nightmare of browser fingerprinting [URL:https://news.ycombinator.com/item?id=46016249]
+8. Meta buried 'causal' evidence of social media harm, US court filings allege [URL:https://news.ycombinator.com/item?id=46019817]
+9. Show HN: Forty.News – Daily news, but on a 40-year delay [URL:https://news.ycombinator.com/item?id=46017175]
+10. How to Spot a Counterfeit Lithium-Ion Battery [URL:https://news.ycombinator.com/item?id=46019168]
+
+==== 以下ID请求失败 ====
+36kr
