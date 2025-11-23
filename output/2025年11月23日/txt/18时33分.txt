@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 男子花 8 万元网购威海 70 平海景房，房子已成功过户，房价为何如此便宜？网购房产需注意哪些问题？ [URL:https://www.zhihu.com/question/1975480911115018743]
+2. 导师没评上院士，如何安慰他？ [URL:https://www.zhihu.com/question/1975505460011479390]
+3. 小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？ [URL:https://www.zhihu.com/question/1975169768370766690]
+4. 三只松鼠员工的「鼠名」让网友上头，甚至推测「鼠鼠关系网」，为什么鼠名这么受欢迎？和大厂花名区别在哪？ [URL:https://www.zhihu.com/question/1975281776659301352]
+5. 如何评价俄罗斯工程院回复郭某事件，暂中止院士资格，将审查申请材料？ [URL:https://www.zhihu.com/question/1975880967957738615]
+6. 为什么出租车可以几十万公里不大修，而私家车却做不到？ [URL:https://www.zhihu.com/question/60870951]
+7. 如何评价《凡人修仙传》动画播出后，宋玉人气暴涨? [URL:https://www.zhihu.com/question/1964029710267814301]
+8. 如何看待腾讯虚幻 5《湮灭之潮》新实机演示曝光？ [URL:https://www.zhihu.com/question/1975132696163411262]
+9. 电影《狂野时代》值不值得看？ [URL:https://www.zhihu.com/question/1975574691142993639]
+10. 爸妈总爱买那种一大包很便宜的精制盐，说盐都一样，我该怎么说服他们换个好点的？ [URL:https://www.zhihu.com/question/1974822975036491602]
+
+v2ex | V2EX
+1. AI 随手记对话体验升级：像真人聊天一样流畅，像朋友一样懂你！ [URL:https://www.v2ex.com/t/1174518]
+2. 最近行情咋样啊，坐标南京， 9 月底拿了大礼包，开始准备找工作了， 5 年 Java [URL:https://www.v2ex.com/t/1174516]
+3. 「一年 100 个 AI 项目」进度：用 EverythingAI 把 n8n 变成口语编程，提效 100 倍！🧠 [URL:https://www.v2ex.com/t/1174513]
+4. 我用 ChatGPT 修改了一下 V2EX Polish 的油猴脚本，支持移动端 [URL:https://www.v2ex.com/t/1174508]
+5. 做了两个月，一个拍立得图片和视频生成器，可免费使用 [URL:https://www.v2ex.com/t/1174497]
+6. 诗词格律检测的命令行工具 [URL:https://www.v2ex.com/t/1174490]
+7. 看到关于心盲症的帖子，觉得挺有意思的，想交流一下个人的心象体验 [URL:https://www.v2ex.com/t/1174377]
+8. 一次可以清理几十个 G 的 Mac 系统优化工具 Mole 小鼹鼠更新了 [URL:https://www.v2ex.com/t/1174476]
+9. 请教一个 iOS 项目埋点的问题 [URL:https://www.v2ex.com/t/1174465]
+10. 分享一个我做的日历日记， Calendar Diary，跨平台+高颜值？哈哈哈 [URL:https://www.v2ex.com/t/1174453]
+
+solidot | Solidot
+1. 伊朗总统表示要迁都 [URL:https://www.solidot.org/story?sid=82870]
+2. Thunderbird Pro 测试每月 9 美元的付费服务 [URL:https://www.solidot.org/story?sid=82869]
+3. 英国陆军将用《使命召唤》训练士兵 [URL:https://www.solidot.org/story?sid=82868]
+4. 如何关闭 Google 应用中的 Gemini AI [URL:https://www.solidot.org/story?sid=82867]
+5. Google 曝光 APT24 使用的 BadAudio 恶意程序 [URL:https://www.solidot.org/story?sid=82866]
+6. 苔藓孢子在空间站外生活 9 个月后仍有繁殖能力 [URL:https://www.solidot.org/story?sid=82865]
+7. 表情符号是如何发明的？ [URL:https://www.solidot.org/story?sid=82864]
+8. CrossOver Preview 宣布支持 Linux ARM64 [URL:https://www.solidot.org/story?sid=82863]
+9. 慢性病在动物中蔓延 [URL:https://www.solidot.org/story?sid=82862]
+10. 撞击地球的行星忒伊亚可能更靠近太阳 [URL:https://www.solidot.org/story?sid=82861]
+
