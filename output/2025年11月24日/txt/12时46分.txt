@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 聊一聊 Gemini3、 AntiGravity 和 Nano Banana Pro 的体验和问题 [URL:https://juejin.cn/post/7574745301725167622]
+2. 转转UI自动化走查方案探索 [URL:https://juejin.cn/post/7574739133945675818]
+3. 告别 Vue 多分辨率适配烦恼：vfit 让元素定位 “丝滑” 跨设备 [URL:https://juejin.cn/post/7574992086715219983]
+4. 用户登录后，Token 到底该存哪里？从懵圈到精通的全方位解析 [URL:https://juejin.cn/post/7574749664491946018]
+5. 回顾 Flutter Flight Plans ，关于 Flutter 的现状和官方热门问题解答 [URL:https://juejin.cn/post/7575438636331630643]
+6. Flutter ：自己动手，封装一个小巧精致的气泡弹窗库 [URL:https://juejin.cn/post/7574621387574034478]
+7. FlutterUnit3.4.1 | 来场三方库的收录狂欢吧~ [URL:https://juejin.cn/post/7575413146922057743]
+8. JavaScript 中的 Promise 详解 [URL:https://juejin.cn/post/7574641470137909263]
+9. 受够了 create-xxx？我写了一个聚合主流框架的脚手架 [URL:https://juejin.cn/post/7574725286530400307]
+10. Vue高阶组件已过时？这3种新方案让你的代码更优雅 [URL:https://juejin.cn/post/7574281453708214278]
+
+ithome | IT之家
+1. 比亚迪元系列首款插混车型：元 UP DM-i 欧洲首发亮相 [URL:https://www.ithome.com/0/899/722.htm]
+2. 保时捷新专利：根据方向盘握姿判断是否需要“封印”车辆部分性能 [URL:https://www.ithome.com/0/899/718.htm]
+3. 2024 款极氪 001 和 009 开启用户众筹：更换辅助驾驶软硬件系统，仅限激光雷达版 [URL:https://www.ithome.com/0/899/711.htm]
+4. 马斯克 X 平台上线“靓号”市场：稀有账号入场费 2500 美元起 [URL:https://www.ithome.com/0/899/710.htm]
+5. 3D 打印厂商拓竹：新一轮融资消息不实 [URL:https://www.ithome.com/0/899/708.htm]
+6. 英国 DragonFire 激光武器精准击落 650 km/h 高速无人机，单次发射成本 10 英镑 [URL:https://www.ithome.com/0/899/707.htm]
+7. 智元发布灵心平台，可个性化定制机器人声音、性格、人设、记忆 [URL:https://www.ithome.com/0/899/706.htm]
+8. 极越汽车：App 离线及车辆远程控制功能已全部恢复正常 [URL:https://www.ithome.com/0/899/703.htm]
+9. 致敬 Xbox 360，NACON 发布 REVOLUTION X UNLIMITED 周年纪念版带屏手柄 [URL:https://www.ithome.com/0/899/702.htm]
+10. 小米澎湃 OS 3 十一月升级汇总：超级小爱随心修图上线，更多应用接入超级岛 [URL:https://www.ithome.com/0/899/701.htm]
+
+hackernews | Hacker News
+1. Fran Sans – font inspired by San Francisco light rail displays [URL:https://news.ycombinator.com/item?id=46025942]
+2. We stopped roadmap work for a week and fixed 189 bugs [URL:https://news.ycombinator.com/item?id=46029772]
+3. RuBee [URL:https://news.ycombinator.com/item?id=46029932]
+4. The Cloudflare outage was a good thing [URL:https://news.ycombinator.com/item?id=46029908]
+5. Native Secure Enclave backed SSH keys on macOS [URL:https://news.ycombinator.com/item?id=46025721]
+6. The Rust Performance Book [URL:https://news.ycombinator.com/item?id=45977386]
+7. New magnetic component discovered in the Faraday effect after nearly 2 centuries [URL:https://news.ycombinator.com/item?id=45985008]
+8. Passing the Torch – My Last Root DNSSEC KSK Ceremony as Crypto Officer 4 [URL:https://news.ycombinator.com/item?id=46029649]
+9. µcad: New open source programming language that can generate 2D sketches and 3D [URL:https://news.ycombinator.com/item?id=46027216]
+10. Ask HN: Hearing aid wearers, what's hot? [URL:https://news.ycombinator.com/item?id=46029699]
+
+==== 以下ID请求失败 ====
+36kr
