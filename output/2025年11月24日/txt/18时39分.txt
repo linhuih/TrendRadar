@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 12 条中日航线取消全部航班，日本旅游业将面临什么？中国游客对日本旅游业重要性有多大？ [URL:https://www.zhihu.com/question/1976258610913891213]
+2. 有没有在江苏科技大学郭伟课题组待过的同学？当时对他的指导和团队氛围真实感受怎么样？ [URL:https://www.zhihu.com/question/1974431243341882082]
+3. 猪一生都被关在猪圈里，但为什么没有抑郁症的表现行为？ [URL:https://www.zhihu.com/question/48551274]
+4. 西贝风波后近 40 道菜品降价，一线员工平均涨薪 500 元，部分门店出现明显排队情况，你怎么看？ [URL:https://www.zhihu.com/question/1975968101385336109]
+5. 领导和我住一幢楼，知道我每天开车，请问我怎么才可以不送他上下班又不会显得很难看? [URL:https://www.zhihu.com/question/1975247155791955652]
+6. 国博都已经叫「后母戊鼎」了，为什么考古博物馆叫「司母辛鼎」？ [URL:https://www.zhihu.com/question/639931940]
+7. 杨瀚森常规赛总分达到 28 分，超越周琦成为中国 NBA 历史第五人，仅次于三大中锋 + 阿联，对此你怎么看？ [URL:https://www.zhihu.com/question/1976231413029233528]
+8. 同事经常故意把工作干砸，领导就把他的工作交给你，该怎么办? [URL:https://www.zhihu.com/question/663171918]
+9. 网友建议拆完快递纸箱立马扔掉，因易释放 TVOCs 且易滋生细菌，有科学依据吗？囤积多少纸箱会对人体有害？ [URL:https://www.zhihu.com/question/1974572346355508588]
+10. 为什么以前的文具盒往往会有各种弹出机关，现在却反倒变得简练了？ [URL:https://www.zhihu.com/question/1971846649618891475]
+
+v2ex | V2EX
+1. 使用 反重力 构建了一个 中国象棋，欢迎找错。 [URL:https://www.v2ex.com/t/1174731]
+2. 有多少人用 cursor vscode 等 ide 配合 claude 写代码的？ [URL:https://www.v2ex.com/t/1174741]
+3. 小伙伴们，有开发用的笔记本推荐吗？ [URL:https://www.v2ex.com/t/1174740]
+4. 分享一个免费的国产内网穿透工具！ [URL:https://www.v2ex.com/t/1174736]
+5. 初次尝试 chrome 商店，上架了个丝滑调节 b 站视频倍速的插件，用 Gemini 3 一键直出引导动画的设计让我挺惊讶 [URL:https://www.v2ex.com/t/1174733]
+6. pve8.4.1 卡死 [URL:https://www.v2ex.com/t/1174729]
+7. 美团好价 12.12 买一年膨胀券包 [URL:https://www.v2ex.com/t/1174726]
+8. raycast 出 windows 版了 [URL:https://www.v2ex.com/t/1174725]
+9. iOS App 有收入第一时间通知你 [开源分享] [URL:https://www.v2ex.com/t/1174724]
+10. 生完小孩后，家庭矛盾剧增，这时候搞一个婚姻家庭服务中心，有没有机会？ [URL:https://www.v2ex.com/t/1174722]
+
+solidot | Solidot
+1. Valve 年收入预计超过 160 亿美元，每名员工产生 5000 万美元 [URL:https://www.solidot.org/story?sid=82880]
+2. 蝙蝠侠会促进人的友善行为 [URL:https://www.solidot.org/story?sid=82879]
+3. Git 3.0 将用 main 而不是 master 为默认分支名 [URL:https://www.solidot.org/story?sid=82878]
+4. 看不见的微塑料通过空气扩散到全球 [URL:https://www.solidot.org/story?sid=82877]
+5. X 展示账号地理位置暴露众多 MAGA 账号在外国运营 [URL:https://www.solidot.org/story?sid=82876]
+6. Chrome 考虑恢复支持 JPEG-XL [URL:https://www.solidot.org/story?sid=82875]
+7. 美国 CDC 将终止所有实验猴研究 [URL:https://www.solidot.org/story?sid=82874]
+8. Firefox 147 将支持 XDG Base Directory Specification 目录标准 [URL:https://www.solidot.org/story?sid=82873]
+9. 密码学会因密钥丢失被迫重新选举 [URL:https://www.solidot.org/story?sid=82872]
+10. 三星内存芯片价格飙升 60% [URL:https://www.solidot.org/story?sid=82871]
+
