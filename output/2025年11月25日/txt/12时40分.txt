@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 聊一聊 Gemini3、 AntiGravity 和 Nano Banana Pro 的体验和问题 [URL:https://juejin.cn/post/7574745301725167622]
+2. 转转UI自动化走查方案探索 [URL:https://juejin.cn/post/7574739133945675818]
+3. 🎉 Ant Design 6.0 来了！这一次它终于想通了什么？ [URL:https://juejin.cn/post/7575810396202287138]
+4. Spring 项目别再乱注入 Service 了！用 Lambda 封装个统一调用组件，爽到飞起 [URL:https://juejin.cn/post/7575017581036765222]
+5. 回顾 Flutter Flight Plans ，关于 Flutter 的现状和官方热门问题解答 [URL:https://juejin.cn/post/7575438636331630643]
+6. FlutterUnit3.4.1 | 来场三方库的收录狂欢吧~ [URL:https://juejin.cn/post/7575413146922057743]
+7. 基于WASM的纯前端Office解决方案：在线编辑/导入导出/权限切换/多实例（已开源） [URL:https://juejin.cn/post/7575425466904723519]
+8. 🎉 Ant Design 6.0 来了！ 🎉 [URL:https://juejin.cn/post/7575751471842230308]
+9. 从“版本号打架”到 30 秒内提醒用户刷新：一个微前端团队的实践 [URL:https://juejin.cn/post/7575006095389605897]
+10. 为什么调用 OpenAI Tools 后，还要再请求一次大模型？——从代码看 LLM 工具调用的本质 [URL:https://juejin.cn/post/7575047994682015795]
+
+ithome | IT之家
+1. 我国首次应急发射：神舟二十二号飞船发射升空，以无人状态启程奔赴空间站 [URL:https://www.ithome.com/0/900/013.htm]
+2. JPR：2025Q3 数据中心 GPU 出货环比暴增 145%，PC 显卡出货温和增长 2.5% [URL:https://www.ithome.com/0/900/012.htm]
+3. 曾宣称 150 年长线运营，网易《射雕》游戏上线一年半后正式停运 [URL:https://www.ithome.com/0/900/011.htm]
+4. 329 元华为自带线全能充移动电源（66W 12000）发售：原装旗舰手机电芯，鸿蒙智慧数显 [URL:https://www.ithome.com/0/900/009.htm]
+5. 圣诞元旦购物季之际，美国儿童和消费者组织呼吁家长避免购买 AI 玩具 [URL:https://www.ithome.com/0/899/994.htm]
+6. 《幻兽帕鲁》游戏 1.0 正式版官宣明年发布，“心归之所”大型更新下月到来 [URL:https://www.ithome.com/0/899/993.htm]
+7. TCL 华星将在武汉建设印刷 OLED 中试验证平台项目，产能扩充 2 倍 [URL:https://www.ithome.com/0/899/992.htm]
+8. 399 元小米智能中控屏开售：内置 Mesh 2.0 网关，支持触屏、语音、远程操控 [URL:https://www.ithome.com/0/899/991.htm]
+9. 全新小鹏 P7 专属车标免费从 18K 金升级为 24K 金 [URL:https://www.ithome.com/0/899/989.htm]
+10. AOC 推出 HDR1000 认证 Mini LED Fast VA 显示器 Q27G4SMN，27" QHD 300Hz [URL:https://www.ithome.com/0/899/988.htm]
+
+hackernews | Hacker News
+1. Pebble Watch software is now 100% open source [URL:https://news.ycombinator.com/item?id=46037626]
+2. Unpowered SSDs slowly lose data [URL:https://news.ycombinator.com/item?id=46038099]
+3. Claude Advanced Tool Use [URL:https://news.ycombinator.com/item?id=46038047]
+4. Cool-retro-term: terminal emulator which mimics look and feel of CRTs [URL:https://news.ycombinator.com/item?id=46036895]
+5. Show HN: I built an interactive HN Simulator [URL:https://news.ycombinator.com/item?id=46036908]
+6. Build a Compiler in Five Projects [URL:https://news.ycombinator.com/item?id=46031220]
+7. Claude Opus 4.5 [URL:https://news.ycombinator.com/item?id=46037637]
+8. Three Years from GPT-3 to Gemini 3 [URL:https://news.ycombinator.com/item?id=46019898]
+9. Show HN: OCR Arena – A playground for OCR models [URL:https://news.ycombinator.com/item?id=46006104]
+10. Random lasers from peanut kernel doped with birch leaf–derived carbon dots [URL:https://news.ycombinator.com/item?id=45981568]
+
+==== 以下ID请求失败 ====
+36kr
