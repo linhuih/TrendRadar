@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 中美元首 11 月 24 日晚通电话，哪些信息值得关注？ [URL:https://www.zhihu.com/question/1976422285205329357]
+2. 35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？ [URL:https://www.zhihu.com/question/1976013755256153204]
+3. 溢价 100% 的山寨山姆挤满县城中产，为什么明知是山寨有溢价大家还愿意买？反映出怎样的消费心理？ [URL:https://www.zhihu.com/question/1974875857555318332]
+4. 荒野求生选手「老中医」在鞋垫藏一捆细线被罚退赛，他要承担法律责任吗？细线在野外生存中能起到哪些作用？ [URL:https://www.zhihu.com/question/1976253932666845124]
+5. 国外游戏里对中国元素的运用，是否还停留在「旗袍、功夫、红灯笼」的刻板印象里？如果是的话为什么？ [URL:https://www.zhihu.com/question/1975656579337573667]
+6. 如何评价 11 月 25 日发布的华为 Mate 80 系列，不同版本如何选择？ [URL:https://www.zhihu.com/question/1976673401511884162]
+7. 网传南大物理学教授闻海虎给多位老师发回应王牧、彭茹雯对自己举报的澄清邮件，如何看待此事？ [URL:https://www.zhihu.com/question/1976353956956430592]
+8. transformer 架构的核心公式其实类似于数学期望，理解起来也不复杂，但为什么这个模型这么强呢？ [URL:https://www.zhihu.com/question/580810624]
+9. 摩尔线程中签率仅为 0.024%，创下了哪些 IPO 记录，其与沐曦股份有何区别，他们能重振芯片板块么？ [URL:https://www.zhihu.com/question/1976380708353234914]
+10. 古代砍头，为什么一定要等「秋后」才问斩？ [URL:https://www.zhihu.com/question/1972992661372806501]
+
+v2ex | V2EX
+1. 最近偶然看到有人在很认真的讨论 TIM 在一期相亲的视频中的表现——我才发现很多人把视频中的主播和真人混为一谈 [URL:https://www.v2ex.com/t/1174996]
+2. mac mini m4 开机两周后发烫严重,重启后温度恢复正常 [URL:https://www.v2ex.com/t/1174990]
+3. 华为 mate80 发布了，标准版比 mate 70 便宜 800 元，大家怎么看？ [URL:https://www.v2ex.com/t/1174986]
+4. [开源自荐] 我做了一个对开发者友好，支付宝背后数据库 OceanBase 的 AI Lite 版 —— seekdb [URL:https://www.v2ex.com/t/1174981]
+5. 开源全套 AI 提示词， AI 编码率从 9.6%稳步提升至 89.2%的实践经验构建 [URL:https://www.v2ex.com/t/1174974]
+6. ssLinks（ss.mba）是不是挂了， 9 月份刚买的年费 呜呜～～ [URL:https://www.v2ex.com/t/1174973]
+7. 作为后端开发工程师，你们有中途转向机器学习/深度学习的吗？ [URL:https://www.v2ex.com/t/1174971]
+8. vertex ai 使用报错 [URL:https://www.v2ex.com/t/1174962]
+9. 原来阿里云对电信诈骗态度这么暧昧 [URL:https://www.v2ex.com/t/1174961]
+10. 在 X 时间线上一键查看账号属地 [URL:https://www.v2ex.com/t/1174960]
+
+solidot | Solidot
+1. SSD 长期断电后会缓慢丢失数据 [URL:https://www.solidot.org/story?sid=82885]
+2. 微软警告 Windows AI 功能可能会产生幻觉 [URL:https://www.solidot.org/story?sid=82884]
+3. 皮尤调查显示美国最流行的社媒仍然是 YouTube [URL:https://www.solidot.org/story?sid=82883]
+4. 接吻行为可以追溯到 2100 万年前 [URL:https://www.solidot.org/story?sid=82882]
+5. 英伟达证实 Windows 十月更新导致游戏性能问题 [URL:https://www.solidot.org/story?sid=82881]
+6. Valve 年收入预计超过 160 亿美元，每名员工产生 5000 万美元 [URL:https://www.solidot.org/story?sid=82880]
+7. 蝙蝠侠会促进人的友善行为 [URL:https://www.solidot.org/story?sid=82879]
+8. Git 3.0 将用 main 而不是 master 为默认分支名 [URL:https://www.solidot.org/story?sid=82878]
+9. 看不见的微塑料通过空气扩散到全球 [URL:https://www.solidot.org/story?sid=82877]
+10. X 展示账号地理位置暴露众多 MAGA 账号在外国运营 [URL:https://www.solidot.org/story?sid=82876]
+
