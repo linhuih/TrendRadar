@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 🎉 Ant Design 6.0 来了！这一次它终于想通了什么？ [URL:https://juejin.cn/post/7575810396202287138]
+2. 基于WASM的纯前端Office解决方案：在线编辑/导入导出/权限切换/多实例（已开源） [URL:https://juejin.cn/post/7575425466904723519]
+3. 🎉 Ant Design 6.0 来了！ 🎉 [URL:https://juejin.cn/post/7575751471842230308]
+4. 回顾 Flutter Flight Plans ，关于 Flutter 的现状和官方热门问题解答 [URL:https://juejin.cn/post/7575438636331630643]
+5. AI 能写代码，但它造不出软件 [URL:https://juejin.cn/post/7576165316250566665]
+6. FlutterUnit3.4.1 | 来场三方库的收录狂欢吧~ [URL:https://juejin.cn/post/7575413146922057743]
+7. 女朋友又给我出难题了：解锁网页禁用复制 + 一键提取图片文字 [URL:https://juejin.cn/post/7576197876717797414]
+8. 从Demo理解Fiber [URL:https://juejin.cn/post/7575413146923073551]
+9. @Transactional做不到的5件事，我用这6种方法解决了 [URL:https://juejin.cn/post/7575104251866398730]
+10. 这 5 个冷门的 HTML 标签，能让你少写 100 行 JS [URL:https://juejin.cn/post/7576468602304495654]
+
+ithome | IT之家
+1. 一加 Ace 2 开启 ColorOS 16.0 内测用户招募，不含原神定制版 [URL:https://www.ithome.com/0/900/341.htm]
+2. 北汽蓝谷 60 亿元再融资项目获批，将发力智能辅助驾驶技术及车型 [URL:https://www.ithome.com/0/900/340.htm]
+3. 智己 LS9 把地暖、洗澡花洒搬到车上，CTO 项娇回应 [URL:https://www.ithome.com/0/900/338.htm]
+4. 乔思伯 N6 九盘位 M-ATX NAS 机箱上市，699 元 [URL:https://www.ithome.com/0/900/337.htm]
+5. 容量、速度“鱼和熊掌兼得”？消息称有机型测试 10000mAh± 电池 / 100W 闪充 [URL:https://www.ithome.com/0/900/335.htm]
+6. 年轻人的第一辆“豪车”：绿源获宝马集团技术授权，将推电动两三轮车、电动滑板车 [URL:https://www.ithome.com/0/900/333.htm]
+7. Rapidus：有关 1.4nm 芯片工厂的报道纯属猜测 [URL:https://www.ithome.com/0/900/332.htm]
+8. 5 个月倒计时：MySQL 8.0 明年停止支持，全球约 58% 实例仍运行该版本 [URL:https://www.ithome.com/0/900/331.htm]
+9. 雷克沙发布行业首款 AI Storage Core：支持热插拔的新型 PCIe 总线存储卡 [URL:https://www.ithome.com/0/900/324.htm]
+10. 路虎“最强卫士”Dakar D7X-R 亮相，即将出战达喀尔拉力赛 [URL:https://www.ithome.com/0/900/323.htm]
+
+hackernews | Hacker News
+1. Show HN: KiDoom – Running DOOM on PCB Traces [URL:https://news.ycombinator.com/item?id=46051449]
+2. Brand New Layouts with CSS Subgrid [URL:https://news.ycombinator.com/item?id=46047053]
+3. Surprisingly, Emacs on Android is pretty good [URL:https://news.ycombinator.com/item?id=46021577]
+4. Space Truckin' – The Nostromo (2012) [URL:https://news.ycombinator.com/item?id=46053566]
+5. Show HN: A WordPress plugin that rewrites image URLs for near-zero-cost delivery [URL:https://news.ycombinator.com/item?id=46053385]
+6. A new bridge links the math of infinity to computer science [URL:https://news.ycombinator.com/item?id=46049932]
+7. The myth of reflected power (2017) [URL:https://news.ycombinator.com/item?id=46053787]
+8. Show HN: We built an open source, zero webhooks payment processor [URL:https://news.ycombinator.com/item?id=46048252]
+9. Space: 1999 – Special Effects Techniques [URL:https://news.ycombinator.com/item?id=46053017]
+10. Java Decompiler [URL:https://news.ycombinator.com/item?id=46016579]
+
+==== 以下ID请求失败 ====
+36kr
