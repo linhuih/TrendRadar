@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 上海交大开设爬树课，学生穿着 4000 多元设备半小时学会，这一教学模式是否具备推广价值？ [URL:https://www.zhihu.com/question/1974861612495176433]
+2. 山姆上线薛记炒货被质疑「会员店为何频上随处可买的商品」，山姆在打什么算盘？用户到底在不满什么？ [URL:https://www.zhihu.com/question/1977057017530118721]
+3. 老人偷偷剃光孩子胎发，宝妈崩溃大哭，「不剃胎发易生病、剃胎发会让发质更好」这种习俗说法有科学依据吗？ [URL:https://www.zhihu.com/question/1976768356322338301]
+4. 相比始祖鸟「喜马拉雅升龙」事件，「环保少女」用荧光追踪剂染绿威尼斯运河的危害，是更大还是更小？ [URL:https://www.zhihu.com/question/1977119105153725793]
+5. 有没有什么东西，被当传家宝代代流传，最后却被发现一点也不值钱? [URL:https://www.zhihu.com/question/435673487]
+6. 为什么我们穿的都是塑料？ [URL:https://www.zhihu.com/question/1975144793609879746]
+7. 如何看待阿里最新财报，闪购营销费用增加 300 多亿收入却仅增 80 多亿，核心电商持续被抖音和拼多多赶超？ [URL:https://www.zhihu.com/question/1977091164105638048]
+8. 中国矿业大学拟收购 490 套房做学生宿舍，如何看待这一做法？如何确保学生顺利住进去、住得好？ [URL:https://www.zhihu.com/question/1976298638574641725]
+9. 同事请下午茶没带你，说：「不好意思，点的时候忘了你。」你会怎么回？ [URL:https://www.zhihu.com/question/1967536195916497780]
+10. 中国「人造太阳」有望两年后「点燃」，会对全球能源格局有怎样的影响？可能面临哪些挑战？ [URL:https://www.zhihu.com/question/1976227268255830750]
+
+v2ex | V2EX
+1. 新手求教：国内部署 Nuxt 全栈项目，腾讯云 EdgeOne Pages 怎么样？ [URL:https://www.v2ex.com/t/1175475]
+2. 程序员相对于大部分普通人，优势在于哪里？ [URL:https://www.v2ex.com/t/1175474]
+3. 开源一个 cookie 管理插件，欢迎大家指正。 [URL:https://www.v2ex.com/t/1175470]
+4. 完全不会 Swift ，用 claude code 花了三天写了个 mac 的侧边栏笔记 [URL:https://www.v2ex.com/t/1175465]
+5. 现在反而不敢买买断制 app 了 [URL:https://www.v2ex.com/t/1175462]
+6. 应该是最“极简”的 LLM 工具调用了：你写的函数、类对象就是工具，不用学任何新东西 [URL:https://www.v2ex.com/t/1175461]
+7. 大半年开发产品，颗粒无收，继续坚持还是放弃？ [URL:https://www.v2ex.com/t/1175458]
+8. 一起来聆听破防的声音 [URL:https://www.v2ex.com/t/1175441]
+9. 退掉京东的电视，优惠 2300 在拼多多下单，发现送货是同一个店铺 [URL:https://www.v2ex.com/t/1175338]
+10. 独开不易！ Ries 这一年创造了 9157 万次无痛英语接触，感谢 v 站把我们“奶”活了。[黑五巨惠 & iOS 上线] [URL:https://www.v2ex.com/t/1175448]
+
+solidot | Solidot
+1. 著名歌星的平均寿命较短 [URL:https://www.solidot.org/story?sid=82904]
+2. 科学家可能首次观察到了暗物质 [URL:https://www.solidot.org/story?sid=82903]
+3. 欧洲议会呼吁限制未成年人使用社媒 [URL:https://www.solidot.org/story?sid=82902]
+4. 马来西亚柔佛州停止批准一级和二级数据中心 [URL:https://www.solidot.org/story?sid=82901]
+5. 研究揭示大脑如何调配有限的工作记忆资源 [URL:https://www.solidot.org/story?sid=82900]
+6. 东南亚地区遭遇创纪录降雨和洪灾 [URL:https://www.solidot.org/story?sid=82899]
+7. 美国网红对他们无法购买的中国造电动汽车赞不绝口 [URL:https://www.solidot.org/story?sid=82898]
+8. 上一次有射击游戏销量超过《使命召唤》是 2006 年 [URL:https://www.solidot.org/story?sid=82897]
+9. FX 将制作改编自《孤岛惊魂》的电视剧 [URL:https://www.solidot.org/story?sid=82896]
+10. AI 并不能思考 [URL:https://www.solidot.org/story?sid=82895]
+
