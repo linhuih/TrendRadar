@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 女朋友又给我出难题了：解锁网页禁用复制 + 一键提取图片文字 [URL:https://juejin.cn/post/7576197876717797414]
+2. 这 5 个冷门的 HTML 标签，能让你少写 100 行 JS [URL:https://juejin.cn/post/7576468602304495654]
+3. 前端没有实际的必要了？结合今年工作内容，谈谈我的看法 [URL:https://juejin.cn/post/7576477793778171944]
+4. Web前端们！我用三年亲身经历，说说从 uniapp 到 Flutter怎么转型的，这条路我爬过，坑我踩过 [URL:https://juejin.cn/post/7576378563575545871]
+5. 回顾 Flutter Flight Plans ，关于 Flutter 的现状和官方热门问题解答 [URL:https://juejin.cn/post/7575438636331630643]
+6. MyBatis-Plus踩坑血泪史：那些年我们踩过的坑！ [URL:https://juejin.cn/post/7576018857368485931]
+7. UI小姐姐要求有“Duang~Duang”的效果怎么办？ [URL:https://juejin.cn/post/7576264484688379944]
+8. FlutterUnit3.4.1 | 来场三方库的收录狂欢吧~ [URL:https://juejin.cn/post/7575413146922057743]
+9. 后台太多记不住？我做了一个统一门户把所有系统全串起来了 [URL:https://juejin.cn/post/7576532425762144271]
+10. 从Demo理解Fiber [URL:https://juejin.cn/post/7575413146923073551]
+
+ithome | IT之家
+1. 安卓换机不再“掉登录”实战案例，Uber 预估每年减少 400 万次手动登录 [URL:https://www.ithome.com/0/900/959.htm]
+2. 华为云组织调整：周跃峰担任 CEO，张平安转任董事长 [URL:https://www.ithome.com/0/900/958.htm]
+3. 荣耀 GT 2 系列新机通过 3C 认证：全系支持 100W 快充，预计 12 月发布 [URL:https://www.ithome.com/0/900/957.htm]
+4. 韩国政府牵头成立 GPU 工作组，联合四大韩企采购 26 万块英伟达显卡 [URL:https://www.ithome.com/0/900/956.htm]
+5. 三星 Galaxy A37 手机跑分曝光：Exynos 1480 芯片 +6GB 内存 [URL:https://www.ithome.com/0/900/955.htm]
+6. 摩尔线程发布 Torch-MUSA v2.7.0，增强 AI 模型训练与推理支持 [URL:https://www.ithome.com/0/900/946.htm]
+7. 深夜玩手机不再刺眼：三星 One UI 8.5 深色模式将消灭“亮瞎眼”的白色图标 [URL:https://www.ithome.com/0/900/945.htm]
+8. 俄罗斯“联盟-5 号”火箭下月首飞，第一级发动机实现完全国产化 [URL:https://www.ithome.com/0/900/942.htm]
+9. Pulsar 派世推出李小龙诞辰 85 周年纪念系列外设，蓝白配色 [URL:https://www.ithome.com/0/900/941.htm]
+10. 北京将建“太空数据中心”，首颗算力试验卫星“辰光一号”即将发射 [URL:https://www.ithome.com/0/900/940.htm]
+
+hackernews | Hacker News
+1. How Charles M Schulz created Charlie Brown and Snoopy (2024) [URL:https://news.ycombinator.com/item?id=46074362]
+2. Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 [URL:https://news.ycombinator.com/item?id=46070668]
+3. 250MWh 'Sand Battery' to start construction in Finland [URL:https://news.ycombinator.com/item?id=46073855]
+4. Vsora Jotunn-8 5nm European inference chip [URL:https://news.ycombinator.com/item?id=46074111]
+5. Physicists drive antihydrogen breakthrough at CERN [URL:https://news.ycombinator.com/item?id=46018159]
+6. A programmer-friendly I/O abstraction over io_uring and kqueue (2022) [URL:https://news.ycombinator.com/item?id=46073817]
+7. Quake Engine Indicators [URL:https://news.ycombinator.com/item?id=46031552]
+8. Feedback doesn't scale [URL:https://news.ycombinator.com/item?id=46058471]
+9. Memories of .us [URL:https://news.ycombinator.com/item?id=46057266]
+10. The VPN panic is only getting started [URL:https://news.ycombinator.com/item?id=46075178]
+
+==== 以下ID请求失败 ====
+36kr
