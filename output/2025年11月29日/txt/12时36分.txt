@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 女朋友又给我出难题了：解锁网页禁用复制 + 一键提取图片文字 [URL:https://juejin.cn/post/7576197876717797414]
+2. 这 5 个冷门的 HTML 标签，能让你少写 100 行 JS [URL:https://juejin.cn/post/7576468602304495654]
+3. Web前端们！我用三年亲身经历，说说从 uniapp 到 Flutter怎么转型的，这条路我爬过，坑我踩过 [URL:https://juejin.cn/post/7576378563575545871]
+4. 后台太多记不住？我做了一个统一门户把所有系统全串起来了 [URL:https://juejin.cn/post/7576532425762144271]
+5. UI小姐姐要求有“Duang~Duang”的效果怎么办？ [URL:https://juejin.cn/post/7576264484688379944]
+6. 谷歌新论文：为什么当前 AI 无法在训练后继续学习？ [URL:https://juejin.cn/post/7576181242582892607]
+7. TRAE SOLO 正式发布了？我用它将像老乡鸡那样做饭小程序开源了！ [URL:https://juejin.cn/post/7576210031873409065]
+8. 比 MySQL 轻，比 SQLite 强：终于有人把 AI 数据库做对了 [URL:https://juejin.cn/post/7576197876716748838]
+9. 让Trae CN SOLO自主发挥，看看能做出一个什么样的项目 [URL:https://juejin.cn/post/7576867727718662179]
+10. 五分钟实战 Compose 展开/收起动画 [URL:https://juejin.cn/post/7576130918078251043]
+
+ithome | IT之家
+1. 荣耀 MagicOS 10 灵动胶囊覆盖场景公布，含充电、人脸识别、NFC 刷卡等 [URL:https://www.ithome.com/0/901/185.htm]
+2. 理想汽车宣布推出首任车主专属复购权益，最高 1 万元现金减免 [URL:https://www.ithome.com/0/901/184.htm]
+3. 谷歌在欧盟反垄断调查开始仅一周后撤回对微软的投诉 [URL:https://www.ithome.com/0/901/183.htm]
+4. 大疆 Pocket 4 云台相机认证曝光：额定 1545mAh 电池，较前代多约 20% [URL:https://www.ithome.com/0/901/182.htm]
+5. 一加 Ace 6T 手机现身中国电信终端产品库：骁龙 8 Gen5 处理器 + 8300mAh 电池 [URL:https://www.ithome.com/0/901/181.htm]
+6. Team Cherry 确认《空洞骑士：丝之歌》游戏 DLC 开发中，新 IP 已在构思 [URL:https://www.ithome.com/0/901/180.htm]
+7. 佳能发布跨平台相机控制方案，佳盒互联 JIALink 宣布上线 [URL:https://www.ithome.com/0/901/179.htm]
+8. 前英特尔 CEO 基辛格预言：量子计算 2 年内普及加速戳破 AI 泡沫，2030 年 GPU 开始被取代 [URL:https://www.ithome.com/0/901/178.htm]
+9. 罕见高分辨率观测：科学家捕获 2025 年最活跃太阳活动区两次 X 级耀斑，地面望远镜首次记录百公里级磁能释放过程 [URL:https://www.ithome.com/0/901/177.htm]
+10. 民企造出高超音速导弹？相关企业凌空天行回应称基本型成功量产 [URL:https://www.ithome.com/0/901/175.htm]
+
+hackernews | Hacker News
+1. System 7 natively boots on the Mac mini G4 [URL:https://news.ycombinator.com/item?id=46084956]
+2. Airbus A320 – intense solar radiation may corrupt data critical for flight [URL:https://news.ycombinator.com/item?id=46083004]
+3. A triangle whose interior angles sum to zero [URL:https://news.ycombinator.com/item?id=46084122]
+4. Imgur geo-blocked the UK, so I geo-unblocked my network [URL:https://news.ycombinator.com/item?id=46081188]
+5. Molly: An Improved Signal App [URL:https://news.ycombinator.com/item?id=46080916]
+6. Confessions of a Software Developer: No More Self-Censorship [URL:https://news.ycombinator.com/item?id=46083303]
+7. So you wanna build a local RAG? [URL:https://news.ycombinator.com/item?id=46080364]
+8. How good engineers write bad code at big companies [URL:https://news.ycombinator.com/item?id=46082223]
+9. Every mathematician has only a few tricks [URL:https://news.ycombinator.com/item?id=46084535]
+10. The original ABC language, Python's predecessor (1991) [URL:https://news.ycombinator.com/item?id=46082204]
+
+==== 以下ID请求失败 ====
+36kr
