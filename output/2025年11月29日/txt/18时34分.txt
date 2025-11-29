@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 上映 3 天，《疯狂动物城 2》票房连破 10 亿，你去影院看了吗？首周末票房能到多少？ [URL:https://www.zhihu.com/question/1977801083406476968]
+2. 有哪些食物是中国人吃，而外国人基本不吃的呢？ [URL:https://www.zhihu.com/question/498018264]
+3. 韦东奕已获评北大副教授，作为团队核心成员验证王虹对挂谷猜想的证明，并撰写详细报告，具有怎样的学术意义？ [URL:https://www.zhihu.com/question/1977384114316390856]
+4. 2026 年 1 月 1 日起存取现金超 5 万元不再需要登记，银行取钱不再一刀切式询问，有哪些利好？ [URL:https://www.zhihu.com/question/1978084613327983995]
+5. 国家发改委表示要注意防范重复度高的人形机器人产品扎堆上市，我国已有超 150 家人形机器人企业，如何解读？ [URL:https://www.zhihu.com/question/1977401930948044538]
+6. 股民求助「主力求您拉个涨停，孩子生病钱不够」，襄阳轴承直线涨停，如何看待这种情况？ [URL:https://www.zhihu.com/question/1978029804696594025]
+7. 猴子有香蕉 666 根，每次最多背 66 根香蕉，可是猴子每走 1 米要吃 1 根香蕉，问猴子最多能走多远？ [URL:https://www.zhihu.com/question/1976807626739319753]
+8. 千问斩获 NeurIPS 2025 最佳论文，为国内唯一获奖团队，论文提到的注意力门控机制解决了哪些问题？ [URL:https://www.zhihu.com/question/1977768202944665159]
+9. 宇宙有没有可能是一个巨人的细胞？ [URL:https://www.zhihu.com/question/305797001]
+10. 许昕直播透露可能离开上海队，今明两天将官宣新身份，可能会是什么？ [URL:https://www.zhihu.com/question/1977484884378350615]
+
+v2ex | V2EX
+1. 写文档必备，敖了三个夜写了的全新的 mermaidjs 编辑器，求体验跟点赞 [URL:https://www.v2ex.com/t/1175851]
+2. 求明星语音包 API 接口,像高德,百度地图语音包 [URL:https://www.v2ex.com/t/1175850]
+3. [小红书神器] 把视频教程自动转成漫画图文，植入自己的角色，还可以用来发小红书 [URL:https://www.v2ex.com/t/1175847]
+4. 自己买算力设备，然后租借给算力平台，每天根据使用的算力赚取收益，靠谱吗？ [URL:https://www.v2ex.com/t/1175846]
+5. 写了一个陪诊类型的信息交易小程序 [URL:https://www.v2ex.com/t/1175805]
+6. 有熟悉摄像头协议的吗，想把摄像头检测到人形的事件转换成 bark 报警 [URL:https://www.v2ex.com/t/1175535]
+7. 做了一个英文绘本类 app《RAZ 趣学阅读》，分享一下 [URL:https://www.v2ex.com/t/1175814]
+8. 微信平台收付通分账申请太难，各位有哪些正规低门槛的分账渠道推荐？ [URL:https://www.v2ex.com/t/1175813]
+9. pikpak 我竟然一直用错了 [URL:https://www.v2ex.com/t/1175808]
+10. 这可能就是为爱发电的理由吧 😆 [URL:https://www.v2ex.com/t/1175806]
+
+solidot | Solidot
+1. 改变推荐算法排名能改变一个人的政治立场 [URL:https://www.solidot.org/story?sid=82914]
+2. KDE Plasma 6.8 将只支持 Wayland [URL:https://www.solidot.org/story?sid=82913]
+3. 五角大楼建议将阿里巴巴百度等加入到协助中国军方的名单 [URL:https://www.solidot.org/story?sid=82912]
+4. 基于 Source 2 的 s&box 引擎开源 [URL:https://www.solidot.org/story?sid=82911]
+5. 手术期间播放音乐有助于减少用药量改善术后恢复 [URL:https://www.solidot.org/story?sid=82910]
+6. NASA 漫游车在火星上发现闪电 [URL:https://www.solidot.org/story?sid=82909]
+7. 戴尔称 Windows 11 换代速度比 Windows 10 慢 [URL:https://www.solidot.org/story?sid=82908]
+8. 苹果时隔多年再次成为全球最大的智能手机制造商 [URL:https://www.solidot.org/story?sid=82907]
+9. AI 撰写了哪些类型的文章 [URL:https://www.solidot.org/story?sid=82906]
+10. 中国药企走向全球 [URL:https://www.solidot.org/story?sid=82905]
+
