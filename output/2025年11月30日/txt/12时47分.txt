@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 后台太多记不住？我做了一个统一门户把所有系统全串起来了 [URL:https://juejin.cn/post/7576532425762144271]
+2. 🍭🍭🍭升级 AntD 6：做第一个吃螃蟹的人 [URL:https://juejin.cn/post/7576571960286822435]
+3. 一种新HTML页面转换成 PDF 技术方案 [URL:https://juejin.cn/post/7576608733612425242]
+4. 黑马喽大闹天宫与JavaScript的寻亲记：作用域与作用域链全解析 [URL:https://juejin.cn/post/7577594229413756947]
+5. 图片标签用 img 还是 picture？很多人彻底弄混了！ [URL:https://juejin.cn/post/7577298871005036578]
+6. 深入理解withContext和launch的真正区别 [URL:https://juejin.cn/post/7577001324416712754]
+7. 当我把 proto 打印出来那一刻，我懂了JS的原型链 [URL:https://juejin.cn/post/7577599015426310179]
+8. 给 TRAE SOLO 一台服务器，它能干什么？ [URL:https://juejin.cn/post/7576821684252475435]
+9. 基于MCP架构的DevUI多组件协作实践：打造智能业务分析平台 [URL:https://juejin.cn/post/7577220965437980726]
+10. 告别Redis瓶颈：Caffeine本地缓存优化实战指南 [URL:https://juejin.cn/post/7577226553286180899]
+
+ithome | IT之家
+1. 怀疑自己被偷拍可以查看对方手机吗？央视科普合理合法维权方式 [URL:https://www.ithome.com/0/901/339.htm]
+2. 耗资 270 亿美元，Meta 超大规模数据中心正给美国一小镇带来严重破坏 [URL:https://www.ithome.com/0/901/338.htm]
+3. HTTP 状态码都有哪些 [URL:https://www.ithome.com/0/901/336.htm]
+4. 一文看懂华为昇腾芯片 [URL:https://www.ithome.com/0/901/335.htm]
+5. 国产神话武侠题材独立游戏《太吾绘卷：天幕心帷》上线时间调整，预计明年 4 月与玩家见面 [URL:https://www.ithome.com/0/901/334.htm]
+6. 中创新航与零跑汽车合资动力电池制造基地开工，明年 6 月投产 [URL:https://www.ithome.com/0/901/333.htm]
+7. 全球唯一量产 IMG DXD 架构产品：国产象帝先自研 GPU 伏羲 A0 亮相，支持光追、超分辨率等技术 [URL:https://www.ithome.com/0/901/332.htm]
+8. 《Love Live!Sunshine!!》水团衍生游戏《幻日夜羽 - 蜃景努玛梓 -》黑五促销，Steam 国区 36.72 元 [URL:https://www.ithome.com/0/901/331.htm]
+9. 华为星跃悬浮键盘上架：适用于 MatePad Edge，售价 1499 元 [URL:https://www.ithome.com/0/901/330.htm]
+10. 鸿蒙智行享界 S9 商品车发运，选配黑曜套件预计 12 月下旬交付 [URL:https://www.ithome.com/0/901/328.htm]
+
+hackernews | Hacker News
+1. Bazzite: The next generation of Linux gaming [URL:https://news.ycombinator.com/item?id=46091362]
+2. All it takes is for one to work out [URL:https://news.ycombinator.com/item?id=46090433]
+3. Meshtastic [URL:https://news.ycombinator.com/item?id=46092558]
+4. The HTTP Query Method [URL:https://news.ycombinator.com/item?id=46056954]
+5. Landlock-Ing Linux [URL:https://news.ycombinator.com/item?id=46090969]
+6. Show HN: Boing [URL:https://news.ycombinator.com/item?id=46093473]
+7. Be Like Clippy [URL:https://news.ycombinator.com/item?id=46090172]
+8. Learning Feynman's Trick for Integrals [URL:https://news.ycombinator.com/item?id=46090269]
+9. A new Little Prince museum has opened its doors in Switzerland [URL:https://news.ycombinator.com/item?id=46092478]
+10. Blender facial animation tool. What else should it do? [URL:https://news.ycombinator.com/item?id=46071221]
+
+==== 以下ID请求失败 ====
+36kr
