@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 中国女足做客温布利 0-8 不敌英格兰，全场遭压制，如何评价本场比赛？ [URL:https://www.zhihu.com/question/1978307697897136906]
+2. 27 岁网红疑在非洲遭绑架虐待后跳车逃生，家属称其因拒绝诈骗国内同胞被非法拘禁 7 天，具体情况如何？ [URL:https://www.zhihu.com/question/1977778957467291791]
+3. 新国标电动自行车每辆价格 4000 元上下，你认为贵吗？还会选择电动自行车出行吗？ [URL:https://www.zhihu.com/question/1978093642804647788]
+4. 为什么《疯狂动物城 2》在中国获得了更大成功？ [URL:https://www.zhihu.com/question/1978016809404868174]
+5. 如何评价 2026 年度国考申论的难度？你考得怎么样？ [URL:https://www.zhihu.com/question/1978469576732795069]
+6. 京东首车埃安 UT Super 交付遭退订，被指宣传与实际不符，问题可能出在哪里？会有哪些影响？ [URL:https://www.zhihu.com/question/1977337131882996421]
+7. 峨眉山公告股东持 500 股可免景区和索道票，随行亲属享折扣，持股成本超六千元，如何看待这一模式？划算吗？ [URL:https://www.zhihu.com/question/1978096057440301370]
+8. 如何看待《疯狂动物城 2》预测票房升至 42.63 亿，超过进口片冠军《复仇者联盟 4》？ [URL:https://www.zhihu.com/question/1978227738335810244]
+9. 《喜人 2》半决赛双高胎作品《哥的全宇宙》被指抄袭《平行时空饭店》，你觉得算是抄袭吗？该怎样界定？ [URL:https://www.zhihu.com/question/1978233764460066582]
+10. 女子生理期下水被鲨鱼咬伤，称曾询问专业人士得到下水许可，生理期下水真的安全吗？哪些原因可能引来鲨鱼？ [URL:https://www.zhihu.com/question/1977810978671457575]
+
+v2ex | V2EX
+1. 在线弹球游戏 [URL:https://www.v2ex.com/t/1175956]
+2. 比“ 国际密码研究协会因密码被破致选举结果泄露”更尴尬的是什么？ [URL:https://www.v2ex.com/t/1175955]
+3. 咸鱼上这都能赚钱吗？ [URL:https://www.v2ex.com/t/1175944]
+4. 刚上线一个 YouTube 转 Podcast 的服务，目前完全免费，无广告，邀请 V 友们来体验/提 Bug。 [URL:https://www.v2ex.com/t/1175940]
+5. 开发了一个 dify 插件，希望大佬们能 star 一下 [URL:https://www.v2ex.com/t/1175932]
+6. 微信小程序开发求助 [URL:https://www.v2ex.com/t/1175925]
+7. 发现 CF 的 AI Gateway 很好用，顺手写了一个支持 ClaudeCode 和 Jetbrains 的代理 [URL:https://www.v2ex.com/t/1175934]
+8. 开发了一个生成任意题目解题步骤的应用 [URL:https://www.v2ex.com/t/1175919]
+9. 开发了 OpenAdServer，一个 Python 的定向，过滤，粗排，精排，重排的在线广告系统 [URL:https://www.v2ex.com/t/1175905]
+10. 开发了一个安卓 APP，发现上架要钱[笑哭] [URL:https://www.v2ex.com/t/1175901]
+
+solidot | Solidot
+1. 天文学家观测到红矮星的日冕物质抛射 [URL:https://www.solidot.org/story?sid=82922]
+2. 荷兰大学反思对微软软件的依赖 [URL:https://www.solidot.org/story?sid=82921]
+3. 因强太阳辐射可能破坏飞控数据空客对全世界六千架客机进行软件更新 [URL:https://www.solidot.org/story?sid=82920]
+4. 禽流感病毒能抵抗高烧 [URL:https://www.solidot.org/story?sid=82919]
+5. 《怪奇物语》定义了算法时代 [URL:https://www.solidot.org/story?sid=82918]
+6. TikTok 日本月活用户逾 4200 万 [URL:https://www.solidot.org/story?sid=82917]
+7. 欧洲新法律要求社媒为金融诈骗承担责任 [URL:https://www.solidot.org/story?sid=82916]
+8. 现代家猫起源于北非野猫 [URL:https://www.solidot.org/story?sid=82915]
+9. 改变推荐算法排名能改变一个人的政治立场 [URL:https://www.solidot.org/story?sid=82914]
+10. KDE Plasma 6.8 将只支持 Wayland [URL:https://www.solidot.org/story?sid=82913]
+
