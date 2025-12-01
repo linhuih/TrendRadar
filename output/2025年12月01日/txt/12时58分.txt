@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 图片标签用 img 还是 picture？很多人彻底弄混了！ [URL:https://juejin.cn/post/7577298871005036578]
+2. 3天，1人，从0到付费产品：AI时代个人开发者的生存指南 [URL:https://juejin.cn/post/7577653509862654002]
+3. 10分钟搞定！SpringBoot+Vue3 整合 SSE 实现实时消息推送 [URL:https://juejin.cn/post/7576867727719677987]
+4. 基于MCP架构的DevUI多组件协作实践：打造智能业务分析平台 [URL:https://juejin.cn/post/7577220965437980726]
+5. 🔥100+ 天，已全面支持鸿蒙！uView Pro 近期更新盘点及未来计划 [URL:https://juejin.cn/post/7576859594360766464]
+6. Python真的要一统天下了？ [URL:https://juejin.cn/post/7115595433472163870]
+7. 用 AI 做了几个超炫酷的 Flutter 动画，同时又差点被 AI 气死 [URL:https://juejin.cn/post/7578215424677003327]
+8. Z-Image 发布了 ，赶紧体验了一把（配套 Modal执行脚本） [URL:https://juejin.cn/post/7577969462860808255]
+9. Dragonboat统一存储LogDB实现分析｜得物技术 [URL:https://juejin.cn/post/7576928310788898868]
+10. Flutter TolyUI 框架#09 | tolyui_text 轻量高亮文本 [URL:https://juejin.cn/post/7578113711363162155]
+
+ithome | IT之家
+1. 内存价格飙升冲击 PC 硬件市场，消息称主板销量同比大跌 40% 至 50% [URL:https://www.ithome.com/0/901/516.htm]
+2. 新加坡明年起禁止中学生校内使用智能手机和智能手表 [URL:https://www.ithome.com/0/901/511.htm]
+3. 定名“领航者”：我国首艘火箭网系回收海上平台命名交付 [URL:https://www.ithome.com/0/901/509.htm]
+4. 中国音乐著作权协会与腾讯音乐娱乐集团达成音乐著作权战略合作 [URL:https://www.ithome.com/0/901/508.htm]
+5. 法拉第未来贾跃亭：未来五年努力实现预计 40-50 万台的产销目标 [URL:https://www.ithome.com/0/901/503.htm]
+6. 联合创新推出“第二代视网膜屏”显示器，宣称视觉体验“媲美苹果原厂显示器” [URL:https://www.ithome.com/0/901/502.htm]
+7. 神 22 乘组在序列中永远空缺，下一个乘组将被命名为神 23 乘组 [URL:https://www.ithome.com/0/901/501.htm]
+8. 努比亚 M153 豆包手机助手详细规格公布：骁龙 8 至尊版芯片，6.78 英寸 LTPO 显示屏 [URL:https://www.ithome.com/0/901/499.htm]
+9. 顺丰推出“超时赔付”服务：成本由公司承担，快递员无需承担 [URL:https://www.ithome.com/0/901/486.htm]
+10. 3999 元：HKC 领航 M8 显示器开启预售，4K 160Hz/1080P 320Hz 双模 Mini LED 面板 [URL:https://www.ithome.com/0/901/481.htm]
+
+hackernews | Hacker News
+1. A Love Letter to FreeBSD [URL:https://news.ycombinator.com/item?id=46100892]
+2. Advent of Sysadmin 2025 [URL:https://news.ycombinator.com/item?id=46102347]
+3. Algorithms for Optimization [pdf] [URL:https://news.ycombinator.com/item?id=46101492]
+4. Writing a good Claude.md [URL:https://news.ycombinator.com/item?id=46098838]
+5. Advent of Code 2025 [URL:https://news.ycombinator.com/item?id=46096337]
+6. Windows drive letters are not limited to A-Z [URL:https://news.ycombinator.com/item?id=46096556]
+7. Bricklink suspends Marketplace operations in 35 countries [URL:https://news.ycombinator.com/item?id=46101263]
+8. Migrating Dillo from GitHub [URL:https://news.ycombinator.com/item?id=46096800]
+9. GitHub to Codeberg: my experience [URL:https://news.ycombinator.com/item?id=46097829]
+10. LLVM-MOS – Clang LLVM fork targeting the 6502 [URL:https://news.ycombinator.com/item?id=46098359]
+
+==== 以下ID请求失败 ====
+36kr
