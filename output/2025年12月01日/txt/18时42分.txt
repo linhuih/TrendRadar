@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 女子徒步想蹭饭反被老板教育「我们帮助有困难的，不帮助有钱人体验生活」，如何看待旅行中「蹭饭」的行为？ [URL:https://www.zhihu.com/question/1977056974811193870]
+2. 小区楼房总层 33 楼，我家住 32 楼，如果楼下发生火灾的话可以跑楼顶天台避火吗？ [URL:https://www.zhihu.com/question/1971960081399657822]
+3. g 与π²极为接近，巧合还是必然？ [URL:https://www.zhihu.com/question/1892251647746482773]
+4. 小伙上吐下泻下班后离世，医院诊断死因为外伤性脑部损伤，家属称其近四月过度加班，可能发生了什么情况？ [URL:https://www.zhihu.com/question/1978527200069253017]
+5. 如何看待博主 H 先生小韩哥发视频评测并质疑影视飓风三合一冲锋衣？ [URL:https://www.zhihu.com/question/1975658884703225303]
+6. 神二十返回舱受损细节公布，玻璃裂纹是三角形，从内到外已贯穿，还能修复吗？ [URL:https://www.zhihu.com/question/1978754335966983138]
+7. 媒体报道爱马仕继承人手中 150 亿美元股份被骗，究竟发生了什么？这笔股份能追回来吗？ [URL:https://www.zhihu.com/question/1978486647059347350]
+8. 如何看待 2025 年 11 月 30 日《疯狂动物城 2》的预测总票房再次大幅提升至 42.6 亿？ [URL:https://www.zhihu.com/question/1978406842355967644]
+9. 如何评价米哈游创始人蔡浩宇海外团队 Anuttacon 制作的聊天 AI Anuneko? [URL:https://www.zhihu.com/question/1978825874213205536]
+10. 孙悟空每一难都先隐身，再敲闷棍，是不是都可以过？ [URL:https://www.zhihu.com/question/667976449]
+
+v2ex | V2EX
+1. 一道小学数学寒假作业题，我居然记了二十多年了 [URL:https://www.v2ex.com/t/1176198]
+2. Yandex-俄罗斯 搜索引擎 ，男人慎用，怕你把持不住 [URL:https://www.v2ex.com/t/1176197]
+3. 我用一个金币复活了 [URL:https://www.v2ex.com/t/1176195]
+4. 阿里最新开源 Z-Image 模型在线 Demo，已部署，无需登录，速度极快 [URL:https://www.v2ex.com/t/1176185]
+5. 把你的照片转换成纸张张开动画，还可以自定义阴影和裁剪效果的边框 [URL:https://www.v2ex.com/t/1176180]
+6. 做了一款 AI 战略游戏--重写战争历史 [URL:https://www.v2ex.com/t/1176179]
+7. 最近用一个独立项目测了下代码生成效果 [URL:https://www.v2ex.com/t/1176174]
+8. 村通往， IPTV 电视支持软终端，不需要盒子了 [URL:https://www.v2ex.com/t/1176171]
+9. 5 分钟接入后端服务 [URL:https://www.v2ex.com/t/1176160]
+10. curl + terminal: 帅帅的个人资料展示 [URL:https://www.v2ex.com/t/1176162]
+
+solidot | Solidot
+1. 韩国电商巨头逾 3000 万用户账户泄漏 [URL:https://www.solidot.org/story?sid=82932]
+2. SmartTube 官方 APK 文件被植入恶意程序 [URL:https://www.solidot.org/story?sid=82931]
+3. 日本多家新闻社要求 Perplexity 停止使用其新闻稿 [URL:https://www.solidot.org/story?sid=82930]
+4. 因发射事故俄罗斯失去了唯一一个载人飞船发射场 [URL:https://www.solidot.org/story?sid=82929]
+5. NixOS 25.11 释出 [URL:https://www.solidot.org/story?sid=82928]
+6. Linux Kernel 6.18 释出 [URL:https://www.solidot.org/story?sid=82927]
+7. Reddit 评论后端从 Python 迁移到 Go Microservice [URL:https://www.solidot.org/story?sid=82926]
+8. 挪威财富基金支持要求微软披露低人权国家业务风险提案 [URL:https://www.solidot.org/story?sid=82925]
+9. 争夺非洲 IPv4 地址之战 [URL:https://www.solidot.org/story?sid=82924]
+10. 高污染环境下锻炼的效果较低 [URL:https://www.solidot.org/story?sid=82923]
+
