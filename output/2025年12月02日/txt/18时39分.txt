@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 12 月 1 日电动自行车新国标实施，为什么要求车速超过 25 公里 / 小时，电机就不再提供动力？ [URL:https://www.zhihu.com/question/1978798213977830911]
+2. 网友发明「苹果夹烤肉」吃法被赞「天才」，这样搭配会更好吃吗？你认为哪种水果和烤肉是绝配？ [URL:https://www.zhihu.com/question/1976679264981099468]
+3. 一辆蔚来 EC6 发生事故车体断成两节，车门正常打开无冒烟自燃，能否改善消费者对电车的安全焦虑？ [URL:https://www.zhihu.com/question/1978890085047956243]
+4. 吉利有沃尔沃 100% 的控股权，却为什么不能共享技术？ [URL:https://www.zhihu.com/question/392770998]
+5. 中国男篮两败韩国后，在更衣室里开了两个小时的会，为什么要开会？会有用吗？ [URL:https://www.zhihu.com/question/1979108016038102494]
+6. 为啥现代人吃红糖白糖无所谓，古人非要想尽一切办法，吃贵出百倍的白糖？ [URL:https://www.zhihu.com/question/1978105053308032067]
+7. 鳄鱼和鸟类不会衰老是真的吗？ [URL:https://www.zhihu.com/question/1976276539478913618]
+8. 2025 年十大流行语发布，「具身智能、苏超、活人感、预制 xx」等词入选，你对哪些词印象深刻？ [URL:https://www.zhihu.com/question/1979191309995635858]
+9. 河南淅川发现距今约 4500 年的长江流域迄今最早青铜器，这将如何重塑我们对中国早期青铜文明的认知？ [URL:https://www.zhihu.com/question/1976701700988483308]
+10. 郴州一烟花店主实名举报公职人员后喝农药轻生，官方成立联合调查组，调查进展如何？背后哪些问题值得反思？ [URL:https://www.zhihu.com/question/1978860807656863686]
+
+v2ex | V2EX
+1. 写了一个小工具，用于去掉项目中的 emoji [URL:https://www.v2ex.com/t/1176448]
+2. 软考高级系统架构设计师值得考吗？ [URL:https://www.v2ex.com/t/1176433]
+3. 一款基于网页的文件收发工具（P2P 打洞版 LocalSend） [URL:https://www.v2ex.com/t/1176429]
+4. Dev Containers 在 antigravity 没法使用 [URL:https://www.v2ex.com/t/1176421]
+5. 减少中文 WEB 字体体积的方法 [URL:https://www.v2ex.com/t/1176398]
+6. axion | 针对现代硬件优化的高性能数据库,可用作 sqlite 后端,使用 zig 开发 [URL:https://www.v2ex.com/t/1176388]
+7. DeepSeek-V3.2 好像热度不高啊 [URL:https://www.v2ex.com/t/1176374]
+8. 用谷歌家的 Antigravity 开发了一个在线 imposter game 游戏，无需注册登录，无需下载，完全免费 [URL:https://www.v2ex.com/t/1176366]
+9. 🔥 爆肝 6 个月，我开发了一款能彻底让你远离手机诱惑的 App。免费送永久会员 🎉 [URL:https://www.v2ex.com/t/1176364]
+10. 白条还款的注意一下复选框 [URL:https://www.v2ex.com/t/1176363]
+
+solidot | Solidot
+1. 2025 年牛津年度单词是 Rage bait [URL:https://www.solidot.org/story?sid=82944]
+2. 华为过去几年申请的 GPU 专利超过英伟达 [URL:https://www.solidot.org/story?sid=82943]
+3. 新加坡禁止中学生在校期间使用智能手机 [URL:https://www.solidot.org/story?sid=82942]
+4. Steam 用户中 Linux 比例达到 3.20% [URL:https://www.solidot.org/story?sid=82941]
+5. Let’s Encrypt 到 2028 年将证书有效期缩短至 45 天 [URL:https://www.solidot.org/story?sid=82940]
+6. 印度要求智能手机预装政府的网络安全应用 [URL:https://www.solidot.org/story?sid=82939]
+7. 澳大利亚社会试验青少年不使用社媒的后果 [URL:https://www.solidot.org/story?sid=82938]
+8. 汽车轮胎是海洋微塑料的最大单一来源 [URL:https://www.solidot.org/story?sid=82937]
+9. 证明草甘膦能安全使用的论文被撤回 [URL:https://www.solidot.org/story?sid=82936]
+10. 树莓派因为内存价格飙升而涨价 [URL:https://www.solidot.org/story?sid=82935]
+
