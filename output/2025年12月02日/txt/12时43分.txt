@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. GibsonAI / Memori [URL:https://github.com/GibsonAI/Memori]
+
+juejin | 掘金
+1. 图片标签用 img 还是 picture？很多人彻底弄混了！ [URL:https://juejin.cn/post/7577298871005036578]
+2. 3天，1人，从0到付费产品：AI时代个人开发者的生存指南 [URL:https://juejin.cn/post/7577653509862654002]
+3. 用 AI 做了几个超炫酷的 Flutter 动画，同时又差点被 AI 气死 [URL:https://juejin.cn/post/7578215424677003327]
+4. 告别RDP爆破恐慌：Codebuddy 5步打造实时IP白名单系统 [URL:https://juejin.cn/post/7577971299743481894]
+5. Z-Image 发布了 ，赶紧体验了一把（配套 Modal执行脚本） [URL:https://juejin.cn/post/7577969462860808255]
+6. 🔄一张图，让你再也忘不了浏览器的事件循环（Event Loop）了 [URL:https://juejin.cn/post/7577395040592756746]
+7. React 中没有 v-model，如何优雅地处理表单输入 [URL:https://juejin.cn/post/7577970969395003433]
+8. 如何用隐形字符给公司内部文档加盲水印?(抓内鬼神器🤣) [URL:https://juejin.cn/post/7578402574653112372]
+9. Flutter TolyUI 框架#09 | tolyui_text 轻量高亮文本 [URL:https://juejin.cn/post/7578113711363162155]
+10. 🚀从 autofit 到 vfit：Vue 开发者该选哪个大屏适配工具？ [URL:https://juejin.cn/post/7577970969395445801]
+
+ithome | IT之家
+1. 宁德时代：1000 座换电站将于春节前正式运营 [URL:https://www.ithome.com/0/901/814.htm]
+2. 索尼推出《原神》限定版 PS5 手柄，下月 21 日上市 [URL:https://www.ithome.com/0/901/810.htm]
+3. TYLOO 1:2 不敌 Liquid，中国《CS2》战队告别布达佩斯 Major [URL:https://www.ithome.com/0/901/809.htm]
+4. 公司账号被盗？网警破获 AI 换脸非法侵入案 [URL:https://www.ithome.com/0/901/808.htm]
+5. 乘联分会崔东树：2025 年 10 月中国占世界汽车份额回升到 38% [URL:https://www.ithome.com/0/901/806.htm]
+6. 火狐 Firefox 浏览器酝酿 Win10 转 Win11 原生备份工具，数据可全量加密迁移 [URL:https://www.ithome.com/0/901/805.htm]
+7. 英特尔相中马来西亚，追加投资 8.6 亿林吉特 [URL:https://www.ithome.com/0/901/804.htm]
+8. realme 联名《权力的游戏》全球首款定制手机官宣即将上市，基于真我 15 Pro 打造 [URL:https://www.ithome.com/0/901/803.htm]
+9. Omdia 报告 2025Q3 中国平板市场：华为同比增 21%、苹果降 14%、小米增 5%、联想增 71%，荣耀增 15% [URL:https://www.ithome.com/0/901/802.htm]
+10. 优派推出 XG323B-4K-OLED 显示器：31.5" UHD 165Hz / FHD 330Hz 双模 [URL:https://www.ithome.com/0/901/799.htm]
+
+hackernews | Hacker News
+1. What will enter the public domain in 2026? [URL:https://news.ycombinator.com/item?id=46117112]
+2. DeepSeek-v3.2: Pushing the frontier of open large language models [pdf] [URL:https://news.ycombinator.com/item?id=46108780]
+3. Beej's Guide to Learning Computer Science [URL:https://news.ycombinator.com/item?id=46117280]
+4. India orders smartphone makers to preload state-owned cyber safety app [URL:https://news.ycombinator.com/item?id=46104193]
+5. Reverse math shows why hard problems are hard [URL:https://news.ycombinator.com/item?id=46116724]
+6. Tom Stoppard has died [URL:https://news.ycombinator.com/item?id=46091211]
+7. Arcee Trinity Mini: US-Trained Moe Model [URL:https://news.ycombinator.com/item?id=46115682]
+8. Ghostty compiled to WASM with xterm.js API compatibility [URL:https://news.ycombinator.com/item?id=46110842]
+9. Last Week on My Mac: Losing confidence [URL:https://news.ycombinator.com/item?id=46114599]
+10. Tested: 1981 Datsun 280ZX Turbo (1981) [URL:https://news.ycombinator.com/item?id=46090184]
+
+==== 以下ID请求失败 ====
+36kr
