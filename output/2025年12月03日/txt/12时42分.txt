@@ -1,0 +1,50 @@
+github | Github
+1. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+2. google / adk-go [URL:https://github.com/google/adk-go]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. yeongpin / cursor-free-vip [URL:https://github.com/yeongpin/cursor-free-vip]
+5. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+6. traefik / traefik [URL:https://github.com/traefik/traefik]
+7. HKUDS / LightRAG [URL:https://github.com/HKUDS/LightRAG]
+8. bobeff / open-source-games [URL:https://github.com/bobeff/open-source-games]
+9. volcengine / verl [URL:https://github.com/volcengine/verl]
+10. MemoriLabs / Memori [URL:https://github.com/MemoriLabs/Memori]
+
+juejin | 掘金
+1. 3天，1人，从0到付费产品：AI时代个人开发者的生存指南 [URL:https://juejin.cn/post/7577653509862654002]
+2. 告别RDP爆破恐慌：Codebuddy 5步打造实时IP白名单系统 [URL:https://juejin.cn/post/7577971299743481894]
+3. 用 AI 做了几个超炫酷的 Flutter 动画，同时又差点被 AI 气死 [URL:https://juejin.cn/post/7578215424677003327]
+4. 如何用隐形字符给公司内部文档加盲水印?(抓内鬼神器🤣) [URL:https://juejin.cn/post/7578402574653112372]
+5. Z-Image 发布了 ，赶紧体验了一把（配套 Modal执行脚本） [URL:https://juejin.cn/post/7577969462860808255]
+6. React 中没有 v-model，如何优雅地处理表单输入 [URL:https://juejin.cn/post/7577970969395003433]
+7. 不仅免费，还开源？这个 AI Mock 神器我必须曝光它 [URL:https://juejin.cn/post/7578793960627486746]
+8. 写Tailwind CSS像在写屎山？这锅该不该它背 [URL:https://juejin.cn/post/7578683148209946676]
+9. 同事：架构太复杂了，源码文件找半天。 我：源码溯源了解一下？ [URL:https://juejin.cn/post/7578460753210966043]
+10. 🚀从 autofit 到 vfit：Vue 开发者该选哪个大屏适配工具？ [URL:https://juejin.cn/post/7577970969395445801]
+
+ithome | IT之家
+1. 福特 CEO 吉姆・法利：公司绝不能错失中国市场 [URL:https://www.ithome.com/0/902/110.htm]
+2. 磐镭推出 Link G2E 扩展坞：兼容雷电 5，配 M.2 盘位，含智能 RGB 灯区 [URL:https://www.ithome.com/0/902/107.htm]
+3. 谷歌打破 17 年传统改为一年双更，向 Pixel 10 等手机推送第二个安卓 16 更新 [URL:https://www.ithome.com/0/902/088.htm]
+4. 七彩虹青羽 98 键盘升级 Ultra 磁轴版：0.005mm RT、双 8kHz 回报率 [URL:https://www.ithome.com/0/902/084.htm]
+5. 外媒模拟 Steam Machine 配置游戏测试：8GB 显存拖后腿 [URL:https://www.ithome.com/0/902/083.htm]
+6. 马来西亚交通部：马航 MH370 航班客机残骸搜寻将于 12 月 30 日重启 [URL:https://www.ithome.com/0/902/082.htm]
+7. 瞳行科技发布国内首款 AI 助盲眼镜，基于阿里通义千问打造 [URL:https://www.ithome.com/0/902/077.htm]
+8. 魅族员工：任何试图通过自然语言「模拟点击」方式操作微信都是高压线，会喜提账号冻结 [URL:https://www.ithome.com/0/902/076.htm]
+9. 三星 Exynos 2600 芯片正式公布，Galaxy S26 系列手机首发搭载 [URL:https://www.ithome.com/0/902/072.htm]
+10. 谁来造月球车：三强争霸，美国宇航局预算紧张恐只有一席 [URL:https://www.ithome.com/0/902/071.htm]
+
+hackernews | Hacker News
+1. Anthropic acquires Bun [URL:https://news.ycombinator.com/item?id=46124267]
+2. IBM CEO says there is 'no way' spending on AI data centers will pay off [URL:https://news.ycombinator.com/item?id=46124324]
+3. Paged Out [URL:https://news.ycombinator.com/item?id=46126217]
+4. I designed and printed a custom nose guard to help my dog with DLE [URL:https://news.ycombinator.com/item?id=46094460]
+5. Understanding ECDSA [URL:https://news.ycombinator.com/item?id=46130233]
+6. OpenAI declares 'code red' as Google catches up in AI race [URL:https://news.ycombinator.com/item?id=46121870]
+7. DOOM could have had PC Speaker Music [URL:https://news.ycombinator.com/item?id=46128286]
+8. Amazon launches Trainium3 [URL:https://news.ycombinator.com/item?id=46125155]
+9. Learning music with Strudel [URL:https://news.ycombinator.com/item?id=46052478]
+10. Qwen3-VL can scan two-hour videos and pinpoint nearly every detail [URL:https://news.ycombinator.com/item?id=46094606]
+
+==== 以下ID请求失败 ====
+36kr
