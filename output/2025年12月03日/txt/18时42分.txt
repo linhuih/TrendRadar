@@ -1,0 +1,36 @@
+zhihu | 知乎
+1. 中俄就涉日问题进行战略对表，并达成高度共识，这意味着什么？ [URL:https://www.zhihu.com/question/1979473433713726791]
+2. 腾讯员工工作满 15 年即可荣誉退休，一次性拿到 21 个月工资，如何评价这一「退休」政策？划算吗？ [URL:https://www.zhihu.com/question/1979307864435684578]
+3. 成都一串串摊回收锅底重复使用，官方通报将严肃处罚，回收锅底有什么危害？摊主说「都这样」是真的吗？ [URL:https://www.zhihu.com/question/1979226228906021190]
+4. 明明还剩 5 发子弹，为什么 99% 的玩家都会下意识换弹？ [URL:https://www.zhihu.com/question/1978360272289805611]
+5. 朱雀三号发射首飞成功入轨，一级再入回收失败，如何理解此次实验的意义？ [URL:https://www.zhihu.com/question/1974817001819088755]
+6. 快船在客场比赛前，深夜将保罗送回洛杉矶，随后球队发文称与保罗分道扬镳，如何看待此事？ [URL:https://www.zhihu.com/question/1979580530300253383]
+7. 哪些演员因为饰演某一影视角色而被毁？ [URL:https://www.zhihu.com/question/20375147]
+8. 中国男篮被韩国男篮双杀，这事怨不怨姚明？和姚明有关吗？ [URL:https://www.zhihu.com/question/1978958003660150727]
+9. 《天龙八部》里面段正淳的四个老婆为什么只有阮星竹的两个女儿都死了? [URL:https://www.zhihu.com/question/416352868]
+10. 12306 回应取消靠窗选座，称系界面优化为了避免因座位是否靠窗引起的误解，你认为怎样显示更合理？ [URL:https://www.zhihu.com/question/1979489796830230195]
+
+v2ex | V2EX
+1. 是否应该尝试使用 Qt QML 重写 Electron 应用。 [URL:https://www.v2ex.com/t/1176711]
+2. 学习了如何测试冲锋衣是否用了无氟拒水剂 [URL:https://www.v2ex.com/t/1176700]
+3. win11 录屏神器：截图工具。可以截图、录屏、导出 gif、取色、提取文字等等…… [URL:https://www.v2ex.com/t/1176698]
+4. 问一下大佬们，国内已备案的网站可以接 stripe 支付吗？ [URL:https://www.v2ex.com/t/1176693]
+5. code996 2.0 版本，支持跨项目分析，跨时区分析，按团队分析等，同时兼容了国内节假日调休规则，欢迎体验 [URL:https://www.v2ex.com/t/1176692]
+6. [Photo Cleaner] 一键清理 iPhone 重复照片，永久会员免费送 [URL:https://www.v2ex.com/t/1176684]
+7. 跨越 12 年的互动：你眼中最漂亮的开源项目主页有哪些？ [URL:https://www.v2ex.com/t/1176666]
+8. 使用 Claude Code 至今的一点经验分享 [URL:https://www.v2ex.com/t/1176659]
+9. 悟空幸存者是一款受《黑神话：悟空》和《吸血鬼幸存者》启发的肉鸽幸存者游戏 [URL:https://www.v2ex.com/t/1176651]
+10. [网站自荐] 微信运动数据可视化分析平台 - 将微信运动的单一数字转化为多维度可视化洞察，让每一步都有迹可循。 [URL:https://www.v2ex.com/t/1176650]
+
+solidot | Solidot
+1. AlphaFold 如何改变世界 [URL:https://www.solidot.org/story?sid=82954]
+2. 日本商业字体公司被收购之后价格上涨逾 50 倍 [URL:https://www.solidot.org/story?sid=82953]
+3. Waymo 无人驾驶出租车在杀猫之后又撞狗 [URL:https://www.solidot.org/story?sid=82952]
+4. 美国威斯康星州要求包含性内容的网站验证访客年龄和屏蔽 VPN [URL:https://www.solidot.org/story?sid=82951]
+5. 朱雀三号可重复使用火箭回收失败 [URL:https://www.solidot.org/story?sid=82950]
+6. 俄罗斯新一代洲际导弹 RS-28 再次发射失败 [URL:https://www.solidot.org/story?sid=82949]
+7. 土耳其研究发现猫咪对男性的叫声更响 [URL:https://www.solidot.org/story?sid=82948]
+8. 全球第七位艾滋病治愈者 [URL:https://www.solidot.org/story?sid=82947]
+9. 《西线无战事》将进入公有领域 [URL:https://www.solidot.org/story?sid=82946]
+10. FreeBSD 15.0 释出 [URL:https://www.solidot.org/story?sid=82945]
+
